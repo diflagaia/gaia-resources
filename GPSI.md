@@ -1,19 +1,19 @@
 ---
 
-### Manage Relations
+### Trust
 
-Nama | Manage Relations
+Nama | Trust
 :----|:----
-Kode | MNRL
-Alias | Socializing
+Kode | TR
+Alias | Kepercayaan
 Definisi | Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### Achievement Drive
+### Morality
 
-Nama  | Achievement Drive
+Nama  | Morality
 :-----|:----
-Kode  | ACHD
-Alias | Semangat Tempur
+Kode  | MR
+Alias | Moralitas
 Definisi | Lorem ipsum dolor sit amet, **consectetur adipisicing** elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. *Ut enim ad minim veniam*, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ### Ascent Drive
