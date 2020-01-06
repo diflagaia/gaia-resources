@@ -97,7 +97,7 @@ Nama  | Achievement-Striving
 Kode  | HDOR
 Alias INA | Dorongan Berprestasi
 Definisi | Karakter yang menggambarkan upaya seseorang untuk mencapai tujuan dan berjuang untuk sukses.
-Deskripsi Rendah | Individu yang mendapat skor rendah menunjukkan bahwa mereka sudah merasa puas ketika bisa menyelesaikan sedikit pekerjaan atau sebuah pekerjaan sederhana, dan bisa jadi dinilai malas oleh orang lain.
+Deskripsi Rendah | Individu yang mendapat skor rendah pada umumnya sudah merasa puas ketika bisa menyelesaikan sedikit pekerjaan atau sebuah pekerjaan sederhana, dan bisa jadi dinilai malas oleh orang lain.
 Deskripsi Tinggi | Individu yang mendapat skor tinggi berusaha keras untuk mencapai posisi yang tertinggi atau mendapatkan yang terbaik. Dorongan untuk diakui sebagai yang paling sukses membuat mereka konsisten untuk terus maju mengejar target, dan seringkali memiliki intuisi yang kuat tentang arah dan tujuan hidup mereka. Namun demikian, skor yang sangat tinggi bisa jadi mengindikasikan bahwa mereka adalah orang-orang yang terlalu single-minded dan terobsesi dengan pekerjaan mereka. 
 
 ### Self-Discipline
