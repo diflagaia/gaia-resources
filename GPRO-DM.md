@@ -22,7 +22,7 @@ Nama | Perencanaan
 :----|:----
 Kode | PDM-03
 Alias ENG | Planning
-Definisi | Aktivitas kognitif, meramalkan, memprediksi, mengantisipasi, mempersiapkan, menyimpulkan, memantau, dan menindaklanjuti; yang dilakukan dalam rangka mengidentifikasi dan menganalisis peluang, ancaman, konsekuensi, serta hasil dari keputusan yang diambil.
+Definisi | Aktivitas kognitif, seperti: meramalkan, memprediksi, mengantisipasi, mempersiapkan, menyimpulkan, memantau, dan menindaklanjuti; yang dilakukan dalam rangka mengidentifikasi dan menganalisis peluang, ancaman, konsekuensi, serta hasil dari keputusan yang diambil.
 
 ### Wawasan
 
