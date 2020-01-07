@@ -27,8 +27,8 @@ Nama  | Altruism
 Kode  | TALT
 Alias INA | Altruisme
 Definisi | Karakter yang menggambarkan kepedulian dan kemauan seseorang untuk melakukan kebaikan terhadap orang lain tanpa pamrih.
-Deskripsi Tinggi | Individu yang mendapat skor tinggi merasa bahwa membantu orang lain adalah hal yang benar-benar berarti. Mereka umumnya bersedia membantu orang lain yang membutuhkan, dan merasa bahwa melakukan sesuatu untuk orang lain adalah sebuah bentuk pemenuhan diri, bukan pengorbanan diri.
 Deskripsi Rendah |  Individu yang mendapat skor rendah tidak begitu suka membantu orang lain yang membutuhkan. Permintaan bantuan lebih mereka rasakan sebagai pemaksaan daripada sebagai kesempatan untuk pemenuhan diri.
+Deskripsi Tinggi | Individu yang mendapat skor tinggi merasa bahwa membantu orang lain adalah hal yang benar-benar berarti. Mereka umumnya bersedia membantu orang lain yang membutuhkan, dan merasa bahwa melakukan sesuatu untuk orang lain adalah sebuah bentuk pemenuhan diri, bukan pengorbanan diri.
 
 ### Cooperation
 
@@ -159,7 +159,7 @@ Kode  | SSIB
 Alias INA | Kesibukan
 Definisi | Karakter yang menggambarkan seberapa tinggi aktivitas seseorang secara fisik.
 Deskripsi Rendah | Individu yang mendapat skor rendah memiliki ritme kehidupan yang lebih lambat dan lebih santai.
-Deskripsi Tinggi | Individu yang mendapat skor tinggi adalah orang yang aktif serta memiliki ritme kehidupan yang cepat dan sibuk. Mereka bergerak cepat, penuh energi, dan penuh semangat, serta terlibat dalam berbagai kegiatan sekaligus.
+Deskripsi Tinggi | Individu yang mendapat skor tinggi adalah orang yang aktif serta memiliki ritme kehidupan yang cepat dan sibuk. Mereka bergerak cepat, penuh energi, penuh semangat, serta terlibat dalam berbagai kegiatan sekaligus.
 
 ### Excitement-Seeking
 
@@ -168,7 +168,7 @@ Nama  | Excitement-Seeking
 Kode  | SHEB
 Alias INA | Kehebohan
 Definisi | Karakter yang menggambarkan kecenderungan seseorang untuk mencari sensasi serta kesiapan untuk mengambil risiko demi mendapatkannya.
-Deskripsi Rendah | Individu yang mendapat skor rendah akan merasa kewalahan bila dihadapkan pada kebisingan dan keributan dan tidak suka mencari sensasi.
+Deskripsi Rendah | Individu yang mendapat skor rendah akan merasa kewalahan bila dihadapkan pada kebisingan dan keributan, dan tidak suka mencari sensasi.
 Deskripsi Tinggi | Individu yang mendapat skor tinggi akan merasa mudah bosan bila tidak mendapat stimulasi yang tinggi. Mereka menyukai hal-hal yang gemerlap dan hiruk-pikuk, serta cenderung suka mengambil risiko dan mencari sensasi.
 
 ### Cheerfulness
@@ -219,7 +219,7 @@ Kode  | MSAD
 Alias INA | Kekhawatiran Diri
 Definisi | Karakter yang menggambarkan sikap seseorang terhadap apa yang dipikirkan orang lain tentang dirinya.
 Deskripsi Rendah | Individu yang mendapatkan skor rendah tidak tersiksa oleh prasangka bahwa semua orang memperhatikan dan menilai mereka. Mereka tidak merasa gugup ketika berada di keramaian.
-Deskripsi Tinggi | Individu yang mendapatkan skor tinggi sensitif terhadap apa yang dipikirkan orang lain tentang dirinya. Kekhawatiran mereka tentang penolakan dan cemoohan menyebabkan mereka merasa malu dan tidak nyaman ketika berada dalam keramaian. Mereka mudah merasa malu dan sering merasa dipermalukan. Ketakutan mereka bahwa orang lain akan mengkritik atau mengolok-olok mereka sebenarnya berlebihan dan tidak realistis, tetapi kecanggungan dan ketidaknyamanan yang mereka alami membuat ketakutan ini benar-benar terjadi pada akhirnya.
+Deskripsi Tinggi | Individu yang mendapatkan skor tinggi peka terhadap apa yang dipikirkan orang lain tentang dirinya. Kekhawatiran mereka tentang penolakan dan cemoohan menyebabkan mereka merasa malu dan tidak nyaman ketika berada dalam keramaian. Mereka mudah merasa malu dan sering merasa dipermalukan. Ketakutan mereka bahwa orang lain akan mengkritik atau mengolok-olok mereka sebenarnya berlebihan dan tidak realistis, tetapi kecanggungan dan ketidaknyamanan yang mereka alami membuat ketakutan ini benar-benar terjadi pada akhirnya.
 
 ### Immoderation
 
@@ -249,7 +249,7 @@ Kode  | BIMA
 Alias INA | Imajinatif
 Definisi | Karakter yang menggambarkan kemampuan seseorang dalam membayangkan dan mengabstraksikan hal-hal yang sebenarnya jauh dari pengalaman konkret.
 Deskripsi Rendah | Individu yang mendapat skor rendah lebih berorientasi pada fakta daripada fantasi, lebih menyukai sesuatu yang sederhana, lugas, jelas (mudah dimengerti) dan memiliki manfaat secara praktis.
-Deskripsi Tinggi | Bagi individu yang imajinatif, dunia nyata seringkali terlalu sederhana dan biasa. Skor yang tinggi menggunakan fantasi sebagai cara untuk menciptakan dunia yang lebih kaya dan lebih menarik.
+Deskripsi Tinggi | Bagi individu yang imajinatif, dunia nyata seringkali terlalu sederhana dan biasa. Skor yang tinggi menunjukkan bahwa seorang individu menggunakan fantasi sebagai cara untuk menciptakan dunia yang lebih kaya dan lebih menarik.
 
 ### Artistic Interests
 
@@ -340,7 +340,7 @@ Deskripsi tinggi | Skor yang tinggi menunjukkan bahwa seorang individu suka bers
 Nama  | Stress Tolerance
 :-----|:----
 Kode  | N
-Alias INA | Toleransi terhadap Stress
+Alias INA | Toleransi terhadap Stres
 Definisi | Karakter yang mengacu pada kecenderungan seorang untuk mengalami perasaan negatif.
 Deskripsi Rendah | Skor yang rendah menunjukkan bahwa seorang individu sangat tenang, berkepala dingin, dan tidak mudah panik maupun heboh. Ia tidak bereaksi dengan emosi yang intens, bahkan ketika menghadapi situasi yang bagi banyak orang terasa sangat menekan.
 Deskripsi Menengah | Skor menengah menunjukkan bahwa reaksi emosional seorang individu berada pada tingkat yang mirip atau setara dengan orang-orang pada umumnya. Situasi stres dan frustrasi cukup menjengkelkan baginya, tetapi ia masih mampu mengatasi perasaannya dan menyiasati situasi tersebut.
