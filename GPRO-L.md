@@ -9,7 +9,7 @@ Alias ENG | Motivation
 Definisi | Kecenderungan untuk menyemangati dan meyakinkan.
 Deskripsi Strength | Ramah, interaktif, demokratis, reseptif dan responsif. Ringan tangan, dan suka berbagi informasi. Inisiatif tinggi dan mengajak orang lain untuk terlibat.
 Deskripsi Weakness | Terlalu permisif dan toleran, tidak bisa mengatakan 'tidak', dan cenderung banyak omong.
- 
+
 ### Responsif
 
 Nama  | Responsif
@@ -17,7 +17,7 @@ Nama  | Responsif
 Kode  | PL-02
 Alias ENG | Responsive
 Definisi | Kecenderungan untuk terlibat dan menanggapi.
-Deskripsi Strength | Supel dan suka bergaul, suka ngobrol dan ekspresif. Senang berbagi ide serta memperhatikan dan mempedulikan gagasan/ide orang lain. Membangun hubungan dan kontak secara luas serta tahu selalu ter-_update_ dengan berita tentang mereka.
+Deskripsi Strength | Supel dan suka bergaul, suka ngobrol dan ekspresif. Senang berbagi ide serta memperhatikan dan mempedulikan gagasan/ide orang lain. Membangun hubungan dan kontak secara luas serta selalu ter-_update_ dengan berita tentang mereka.
 Deskripsi Weakness | Terlalu peduli dengan orang lain, terkesan manipulatif ataupun cenderung berkesan tidak tulus. Tidak fokus dengan tugasnya, lebih karena terlalu sibuk dengan keramahannya dan interaksi sosial lainnya.
 
 ### Progresif
@@ -28,7 +28,7 @@ Kode | PL-03
 Alias ENG | Progressive
 Definisi | Kecenderungan untuk berubah dan menghadapi tantangan.
 Deskripsi Strength | Berani dan percaya diri,  mencari dan mengeksplorasi ide-ide baru; dan biasanya menjadi panutan dalam kegiatan kelompok. Mendapatkan kepuasan melalui pengalaman dan hubungan baru, suka berinisiatif dan menikmati perubahan.
-Deskripsi Weakness | Sering berinisiatif secara impulsif, tidak memprediksi akibat dan resiko yang harus ditanggung di kemudian hari. Mudah bosan dan susah berkonsentrasi pada satu hal untuk jangka waktu yang lama. Kurang sensitif dan kurang perhatian. Kurang peduli dengan isu perawatan dan pemeliharaan
+Deskripsi Weakness | Sering berinisiatif secara impulsif, tidak memprediksi akibat dan risiko yang harus ditanggung di kemudian hari. Mudah bosan dan susah berkonsentrasi pada satu hal untuk jangka waktu yang lama. Kurang sensitif dan kurang perhatian. Kurang peduli dengan isu perawatan dan pemeliharaan
 
 ### Situasional
 
@@ -117,8 +117,8 @@ Nama  | Independen
 Kode  | PL-12
 Alias ENG | Independent
 Definisi | Kecenderungan untuk bersikap mandiri dan berdikari
-Deskripsi Strength | Berpikir independen - membuat keputusan sendiri, mandiri, 'solo player', melakukan beragam  hal-hal untuk diri mereka sendiri.
-Deskripsi Weakness | Non personal dan mengambil jarak, cenderung arogan, tidak kooperatif dan kolaboratif, terlalu mandiri, atau egois, tidak  komunikatif dan 'penyendiri'.
+Deskripsi Strength | Berpikir independen - membuat keputusan sendiri, mandiri, _'solo player'_, mampu melakukan beragam  hal untuk diri mereka sendiri.
+Deskripsi Weakness | _Non personal_ dan mengambil jarak, cenderung arogan, tidak kooperatif dan kolaboratif, terlalu mandiri, atau egois, tidak  komunikatif dan 'penyendiri'.
 
 ### Pengembangan
 
@@ -126,7 +126,7 @@ Nama | Pengembangan
 :----|:----
 Kode | PL-13
 Alias ENG | Development
-Definisi | Gaya berinteraksi dengan orang lain yang lebih peka dan fleksibel, yang menekankan pada perilaku membangun atau mengembangkan, dan memberi ruang untuk diskusi, negosiasi dan kompromi, serta perubahan dan modifikasi.
+Definisi | Gaya berinteraksi dengan orang lain yang lebih peka dan fleksibel, yang menekankan pada perilaku membangun atau mengembangkan, memberi ruang untuk diskusi, negosiasi, kompromi, serta perubahan dan modifikasi.
 
 ### Pengendalian
 
