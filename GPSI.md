@@ -7,8 +7,8 @@ Nama | Trust
 Kode | TPER
 Alias INA | Kepercayaan
 Definisi | Karakter yang mengacu pada pandangan seseorang terhadap sifat orang lain
-Deskripsi Rendah | Individu yang mendapat skor rendah memandang orang lain sebagai pribadi yang egois, licik, dan berpotensi membahayakan baginya. 
-Deskripsi Tinggi | Individu yang mendapat skor tinggi memiliki asumsi bahwa secara umum setiap orang memiliki sifat adil, jujur, dan niat baik. 
+Deskripsi Rendah | Individu yang mendapat skor rendah memandang orang lain sebagai pribadi yang egois, licik, dan berpotensi membahayakan baginya.
+Deskripsi Tinggi | Individu yang mendapat skor tinggi memiliki asumsi bahwa secara umum setiap orang memiliki sifat adil, jujur, dan niat baik.
 
 ### Morality
 
@@ -17,8 +17,8 @@ Nama  | Morality
 Kode  | TMOR
 Alias INA | Moralitas
 Definisi | Karakter yang mengacu pada pandangan seseorang terhadap kejujuran dan ketulusan versus kepura-puraan dan kecurangan dalam hubungan sosial.
-Deskripsi Rendah | Individu yang mendapat skor rendah percaya bahwa kecurangan dalam hubungan sosial kadang-kadang diperlukan. Pada umumnya, orang merasa lebih sulit untuk berhubungan dengan individu ambigu yang memiliki skor Morality rendah. Individu yang memiliki skor Morality rendah bukanlah orang yang tidak berprinsip atau tidak bermoral; mereka hanya lebih waspada, hati-hati dan kurang bersedia untuk mengungkapkan kebenaran secara terbuka.
-Deskripsi Tinggi | Individu yang mendapat skor tinggi tidak melihat perlunya kepura-puraan atau manipulasi ketika berhadapan dengan orang lain, sehingga selalu bersikap lugas, jujur, dan tulus. Pada umumnya, orang merasa relatif mudah untuk berhubungan dengan individu lugas yang memiliki skor Morality tinggi.
+Deskripsi Rendah | Individu yang mendapat skor rendah percaya bahwa kecurangan dalam hubungan sosial kadang-kadang diperlukan. Pada umumnya, orang merasa lebih sulit untuk berhubungan dengan individu ambigu yang memiliki skor _Morality_ rendah. Individu yang memiliki skor _Morality_ rendah bukanlah orang yang tidak berprinsip atau tidak bermoral; mereka hanya lebih waspada, hati-hati dan kurang bersedia untuk mengungkapkan kebenaran secara terbuka.
+Deskripsi Tinggi | Individu yang mendapat skor tinggi tidak melihat perlunya kepura-puraan atau manipulasi ketika berhadapan dengan orang lain, sehingga selalu bersikap lugas, jujur, dan tulus. Pada umumnya, orang merasa relatif mudah untuk berhubungan dengan individu lugas yang memiliki skor _Morality_ tinggi.
 
 ### Altruism
 
@@ -28,7 +28,7 @@ Kode  | TALT
 Alias INA | Altruisme
 Definisi | Karakter yang menggambarkan kepedulian dan kemauan seseorang untuk melakukan kebaikan terhadap orang lain tanpa pamrih.
 Deskripsi Tinggi | Individu yang mendapat skor tinggi merasa bahwa membantu orang lain adalah hal yang benar-benar berarti. Mereka umumnya bersedia membantu orang lain yang membutuhkan, dan merasa bahwa melakukan sesuatu untuk orang lain adalah sebuah bentuk pemenuhan diri, bukan pengorbanan diri.
-Deskripsi Rendah |  Individu yang mendapat skor rendah tidak begitu suka membantu orang lain yang membutuhkan. Permintaan bantuan lebih mereka rasakan sebagai pemaksaan daripada sebagai kesempatan untuk pemenuhan diri. 
+Deskripsi Rendah |  Individu yang mendapat skor rendah tidak begitu suka membantu orang lain yang membutuhkan. Permintaan bantuan lebih mereka rasakan sebagai pemaksaan daripada sebagai kesempatan untuk pemenuhan diri.
 
 ### Cooperation
 
@@ -37,8 +37,8 @@ Nama  | Cooperation
 Kode  | TSAM
 Alias INA | Kerja sama
 Definisi | Karakter yang menggambarkan kemauan seseorang untuk berkompromi atau mengorbankan kebutuhan mereka sendiri demi kepentingan bersama.
-Deskripsi Rendah | Individu yang mendapat skor rendah memiliki kemungkinan untuk melakukan intimidasi terhadap orang lain demi mendapatkan apa yang mereka inginkan. 
-Deskripsi Tinggi | Individu yang mendapat skor tinggi tidak menyukai konfrontasi. Mereka bersedia untuk berkompromi atau mengorbankan kebutuhan mereka sendiri demi supaya bisa bergaul atau melakukan kegiatan bersama orang lain. 
+Deskripsi Rendah | Individu yang mendapat skor rendah memiliki kemungkinan untuk melakukan intimidasi terhadap orang lain demi mendapatkan apa yang mereka inginkan.
+Deskripsi Tinggi | Individu yang mendapat skor tinggi tidak menyukai konfrontasi. Mereka bersedia untuk berkompromi atau mengorbankan kebutuhan mereka sendiri demi supaya bisa bergaul atau melakukan kegiatan bersama orang lain.
 
 ### Modesty
 
@@ -47,7 +47,7 @@ Nama  | Modesty
 Kode  | TREN
 Alias INA | Kerendahan Hati
 Definisi | Karakter yang menggambarkan kemampuan seseorang untuk tidak terlalu membanggakan kemampuan dirinya.
-Deskripsi Rendah | Beberapa individu yang mendapat skor rendah memiliki harga diri tinggi, dan tidak merasa bahwa sikap tinggi hati tersebut merupakan sikap yang tidak pantas. Individu yang menggambarkan diri mereka sebagai orang yang lebih tinggi statusnya (superior) cenderung dianggap sombong oleh orang lain. 
+Deskripsi Rendah | Beberapa individu yang mendapat skor rendah memiliki harga diri tinggi, dan tidak merasa bahwa sikap tinggi hati tersebut merupakan sikap yang tidak pantas. Individu yang menggambarkan diri mereka sebagai orang yang lebih tinggi statusnya (superior) cenderung dianggap sombong oleh orang lain.
 Deskripsi Tinggi | Individu yang mendapat skor tinggi umumnya tidak suka mengklaim bahwa mereka lebih baik daripada orang lain. Dalam beberapa kasus, sikap ini mungkin berasal dari kepercayaan diri atau harga diri yang rendah.   
 
 ### Sympathy
@@ -57,8 +57,8 @@ Nama  | Sympathy
 Kode  | TPED
 Alias INA | Kepedulian
 Definisi | Karakter yang menggambarkan kemampuan seseorang untuk merasa kasihan pada nasib buruk atau kemalangan orang lain.
-Deskripsi Rendah | Individu yang mendapat skor rendah tidak mudah terpengaruh oleh penderitaan orang lain. Mereka merasa bangga ketika bisa membuat penilaian obyektif yang berdasarkan pada nalar/alasan. Mereka lebih peduli dengan kebenaran dan keadilan yang berimbang dibandingkan dengan belas kasihan. 
-Deskripsi Tinggi | Individu yang mendapat skor tinggi umumnya berhati lembut dan penyayang. Mereka merasakan penderitaan orang lain seolah-olah mereka yang mengalaminya sendiri, dan mudah merasa kasihan. 
+Deskripsi Rendah | Individu yang mendapat skor rendah tidak mudah terpengaruh oleh penderitaan orang lain. Mereka merasa bangga ketika bisa membuat penilaian obyektif yang berdasarkan pada nalar/alasan. Mereka lebih peduli dengan kebenaran dan keadilan yang berimbang dibandingkan dengan belas kasihan.
+Deskripsi Tinggi | Individu yang mendapat skor tinggi umumnya berhati lembut dan penyayang. Mereka merasakan penderitaan orang lain seolah-olah mereka yang mengalaminya sendiri, dan mudah merasa kasihan.
 
 ### Self-Efficacy
 
@@ -66,9 +66,9 @@ Nama  | Self-Efficacy
 :-----|:----
 Kode  | HTEG
 Alias INA | Keteguhan
-Definisi | Karakter yang menggambarkan kepercayaan diri seseorang bahwa ia memiliki kemampuan untuk mencapai atau menyelesaikan sesuatu. 
+Definisi | Karakter yang menggambarkan kepercayaan diri seseorang bahwa ia memiliki kemampuan untuk mencapai atau menyelesaikan sesuatu.
 Deskripsi Rendah | Individu yang mendapat skor rendah merasa tidak efektif dalam melakukan kontrol diri, bahkan mungkin merasa tidak mampu melakukannya.
-Deskripsi Tinggi | Individu yang mendapat skor tinggi percaya bahwa mereka memiliki kecerdasan (nalar), dorongan, dan kontrol diri yang diperlukan untuk mencapai kesuksesan. 
+Deskripsi Tinggi | Individu yang mendapat skor tinggi percaya bahwa mereka memiliki kecerdasan (nalar), dorongan, dan kontrol diri yang diperlukan untuk mencapai kesuksesan.
 
 ### Orderliness
 
@@ -78,7 +78,7 @@ Kode  | HTER
 Alias INA | Keteraturan
 Definisi | Karakter yang menggambarkan kualitas seseorang untuk mengatur atau mengorganisir sesuatu.
 Deskripsi Rendah | Individu yang mendapat skor rendah cenderung tidak teratur dan acak-acakan.
-Deskripsi Tinggi | Individu yang mendapat skor tinggi adalah orang yang terorganisir atau teratur. Mereka menyukai rutinitas dan jadwal. Mereka membuat daftar dan rencana, dan berusaha menepatinya. 
+Deskripsi Tinggi | Individu yang mendapat skor tinggi adalah orang yang terorganisir atau teratur. Mereka menyukai rutinitas dan jadwal. Mereka membuat daftar dan rencana, dan berusaha menepatinya.
 
 ### Dutifulness
 
@@ -86,7 +86,7 @@ Nama  | Dutifulness
 :-----|:----
 Kode  | HPAT
 Alias INA | Kepatuhan
-Definisi | Karakter yang menggambarkan kekuatan rasa tanggung jawab seseorang terhadap tugas dan kewajibannya. 
+Definisi | Karakter yang menggambarkan kekuatan rasa tanggung jawab seseorang terhadap tugas dan kewajibannya.
 Deskripsi Rendah | Individu yang mendapat skor rendah menunjukkan bahwa ia menganggap segala kontrak, persyaratan dan aturan sebagai hal yang terlalu membatasi atau mengungkung. Mereka cenderung dilihat sebagai pribadi yang tidak dapat diandalkan atau bahkan tidak bertanggung jawab.
 Deskripsi Tinggi | Individu yang mendapat skor tinggi merasa memiliki kewajiban moral yang kuat untuk menyelesaikan tugasnya.
 
@@ -98,7 +98,7 @@ Kode  | HDOR
 Alias INA | Dorongan Berprestasi
 Definisi | Karakter yang menggambarkan upaya seseorang untuk mencapai tujuan dan berjuang untuk sukses.
 Deskripsi Rendah | Individu yang mendapat skor rendah pada umumnya sudah merasa puas ketika bisa menyelesaikan sedikit pekerjaan atau sebuah pekerjaan sederhana, dan bisa jadi dinilai malas oleh orang lain.
-Deskripsi Tinggi | Individu yang mendapat skor tinggi berusaha keras untuk mencapai posisi yang tertinggi atau mendapatkan yang terbaik. Dorongan untuk diakui sebagai yang paling sukses membuat mereka konsisten untuk terus maju mengejar target, dan seringkali memiliki intuisi yang kuat tentang arah dan tujuan hidup mereka. Namun demikian, skor yang sangat tinggi bisa jadi mengindikasikan bahwa mereka adalah orang-orang yang terlalu single-minded dan terobsesi dengan pekerjaan mereka. 
+Deskripsi Tinggi | Individu yang mendapat skor tinggi berusaha keras untuk mencapai posisi yang tertinggi atau mendapatkan yang terbaik. Dorongan untuk diakui sebagai yang paling sukses membuat mereka konsisten untuk terus maju mengejar target, dan seringkali memiliki intuisi yang kuat tentang arah dan tujuan hidup mereka. Namun demikian, skor yang sangat tinggi bisa jadi mengindikasikan bahwa mereka adalah orang-orang yang terlalu _single-minded_ dan terobsesi dengan pekerjaan mereka.
 
 ### Self-Discipline
 
@@ -106,9 +106,9 @@ Nama  | Self-Discipline
 :-----|:----
 Kode  | HDIS
 Alias INA | Kedisiplinan
-Definisi | Karakter yang mengacu pada kemampuan untuk bertahan mengerjakan tugas-tugas yang sulit atau tidak menyenangkan sampai selesai. 
+Definisi | Karakter yang mengacu pada kemampuan untuk bertahan mengerjakan tugas-tugas yang sulit atau tidak menyenangkan sampai selesai.
 Deskripsi Rendah | Individu yang mendapat skor rendah cenderung menunda pekerjaan dan menunjukkan upaya tindak lanjut yang buruk, serta sering gagal menyelesaikan tugas - bahkan tugas yang sebenarnya sangat ingin mereka selesaikan.
-Deskripsi Tinggi | Individu yang mendapat skor tinggi mampu mengatasi keengganan untuk mulai mengerjakan tugas dan tetap mengerjakannya meskipun mendapat banyak gangguan. 
+Deskripsi Tinggi | Individu yang mendapat skor tinggi mampu mengatasi keengganan untuk mulai mengerjakan tugas dan tetap mengerjakannya meskipun mendapat banyak gangguan.
 
 ### Cautiousness
 
@@ -128,8 +128,8 @@ Nama  | Friendliness
 Kode  | SRAM
 Alias INA | Keramahan
 Definisi | Karakter yang menggambarkan kualitas perilaku seseorang untuk membuat orang lain merasa nyaman dengan cara yang baik dan menyenangkan.
-Deskripsi Rendah | Individu yang mendapat skor rendah tidak selalu menggambarkan pribadi yang dingin dan bersikap memusuhi orang lain, melainkan hanya tidak suka memulai pertemanan dan seringkali dianggap sebagai orang yang berjarak dan pendiam. 
-Deskripsi Tinggi | Individu yang mendapat skor tinggi benar-benar menyukai orang lain dan secara terbuka menunjukkan perasaan positif terhadap orang lain. Mereka cepat berteman dan mudah menjalin kedekatan serta hubungan yang akrab. 
+Deskripsi Rendah | Individu yang mendapat skor rendah tidak selalu menggambarkan pribadi yang dingin dan bersikap memusuhi orang lain, melainkan hanya tidak suka memulai pertemanan dan seringkali dianggap sebagai orang yang berjarak dan pendiam.
+Deskripsi Tinggi | Individu yang mendapat skor tinggi benar-benar menyukai orang lain dan secara terbuka menunjukkan perasaan positif terhadap orang lain. Mereka cepat berteman dan mudah menjalin kedekatan serta hubungan yang akrab.
 
 ### Gregariousness
 
@@ -137,9 +137,9 @@ Nama  | Gregariousness
 :-----|:----
 Kode  | SGAU
 Alias INA | Kegaulan
-Definisi | Karakter yang menggambarkan kecenderungan  seseorang untuk menikmati kebersamaan dengan orang lain dan berhubungan dengan kelompok sosial. 
+Definisi | Karakter yang menggambarkan kecenderungan  seseorang untuk menikmati kebersamaan dengan orang lain dan berhubungan dengan kelompok sosial.
 Deskripsi Rendah | Individu yang mendapat skor rendah cenderung merasa kewalahan bila berada dalam keramaian; dan oleh karena itu secara aktif berusaha menghindari banyak orang. Kadang-kadang mereka bukannya tidak suka berada bersama orang lain, tetapi mereka membutuhkan privasi dan waktu untuk diri sendiri yang jauh lebih besar daripada mereka yang skornya tinggi.
-Deskripsi Tinggi | Individu yang mendapat skor tinggi merasakan bahwa kebersamaan dengan orang lain membawa manfaat dan membuat mereka merasa bersemangat. Mereka menikmati kegembiraan ketika berada dalam keramaian. 
+Deskripsi Tinggi | Individu yang mendapat skor tinggi merasakan bahwa kebersamaan dengan orang lain membawa manfaat dan membuat mereka merasa bersemangat. Mereka menikmati kegembiraan ketika berada dalam keramaian.
 
 ### Assertiveness
 
@@ -149,7 +149,7 @@ Kode  | SASE
 Alias INA | Keasertifan
 Definisi | Karakter yang menggambarkan sikap percaya diri seseorang yang tidak takut untuk mengatakan apa yang mereka inginkan atau yakini, tanpa menjadi agresif.
 Deskripsi Rendah | Individu yang mendapat skor rendah cenderung tidak banyak bicara dan membiarkan orang lain mengontrol kegiatan kelompok.
-Deskripsi Tinggi | Individu yang mendapat skor tinggi cenderung suka berbicara, suka memegang kendali, dan mengarahkan aktivitas orang lain. Mereka cenderung menjadi pemimpin dalam kelompok. 
+Deskripsi Tinggi | Individu yang mendapat skor tinggi cenderung suka berbicara, suka memegang kendali, dan mengarahkan aktivitas orang lain. Mereka cenderung menjadi pemimpin dalam kelompok.
 
 ### Activity Level
 
@@ -159,7 +159,7 @@ Kode  | SSIB
 Alias INA | Kesibukan
 Definisi | Karakter yang menggambarkan seberapa tinggi aktivitas seseorang secara fisik.
 Deskripsi Rendah | Individu yang mendapat skor rendah memiliki ritme kehidupan yang lebih lambat dan lebih santai.
-Deskripsi Tinggi | Individu yang mendapat skor tinggi adalah orang yang aktif serta memiliki ritme kehidupan yang cepat dan sibuk. Mereka bergerak cepat, penuh energi, dan penuh semangat, serta terlibat dalam berbagai kegiatan sekaligus. 
+Deskripsi Tinggi | Individu yang mendapat skor tinggi adalah orang yang aktif serta memiliki ritme kehidupan yang cepat dan sibuk. Mereka bergerak cepat, penuh energi, dan penuh semangat, serta terlibat dalam berbagai kegiatan sekaligus.
 
 ### Excitement-Seeking
 
@@ -189,7 +189,7 @@ Kode  | MTEN
 Alias INA | Kegelisahan
 Definisi | Karakter yang menggambarkan perasaan khawatir, gugup atau gelisah yang dialami seseorang terkait sesuatu yang belum pasti atau belum terjadi.
 Deskripsi Rendah | Individu yang mendapat skor rendah pada umumnya bersikap tenang dan tak kenal takut.
-Deskripsi Tinggi | Individu yang mendapat skor tinggi sering merasa akan ada bahaya yang terjadi. Mereka mungkin merasa takut terhadap situasi tertentu atau bisa jadi hanya merasa takut saja tanpa penyebab yang jelas. Mereka juga mudah merasa tegang, gelisah, dan gugup. 
+Deskripsi Tinggi | Individu yang mendapat skor tinggi sering merasa akan ada bahaya yang terjadi. Mereka mungkin merasa takut terhadap situasi tertentu atau bisa jadi hanya merasa takut saja tanpa penyebab yang jelas. Mereka juga mudah merasa tegang, gelisah, dan gugup.
 
 ### Anger
 
@@ -197,9 +197,9 @@ Nama  | Anger
 :-----|:----
 Kode  | MSAB
 Alias INA | Kemarahan
-Definisi | Karakter yang menggambarkan kecenderungan seseorang untuk merasa marah; apakah orang tersebut bakal mengungkapkan kejengkelan dan kebenciannya atau tidak, hal ini tergantung pada tingkat Agreeableness-nya. 
+Definisi | Karakter yang menggambarkan kecenderungan seseorang untuk merasa marah; apakah orang tersebut bakal mengungkapkan kejengkelan dan kebenciannya atau tidak, hal ini tergantung pada tingkat _Agreeableness_-nya.
 Deskripsi Rendah | Skor yang rendah menunjukkan bahwa seorang individu tidak mudah dan tidak sering marah.
-Deskripsi Tinggi | Skor yang tinggi menunjukkan bahwa seorang individu mudah merasa marah ketika ada sesuatu hal yang tidak sesuai dengan keinginan mereka. Mereka peka terhadap keinginan mereka untuk diperlakukan secara adil, serta merasa sakit hati dan tak ragu mengeluarkan kata-kata pedas ketika merasa dicurangi. 
+Deskripsi Tinggi | Skor yang tinggi menunjukkan bahwa seorang individu mudah merasa marah ketika ada sesuatu hal yang tidak sesuai dengan keinginan mereka. Mereka peka terhadap keinginan mereka untuk diperlakukan secara adil, serta merasa sakit hati dan tak ragu mengeluarkan kata-kata pedas ketika merasa dicurangi.
 
 ### Depression
 
@@ -209,7 +209,7 @@ Kode  | MIKH
 Alias INA | Depresi
 Definisi | Karakter yang menggambarkan kecenderungan seseorang untuk merasa sedih, kesal, dan putus asa.
 Deskripsi Rendah | Individu yang memiliki skor rendah cenderung bebas dari perasaan-perasaan negatif yang terus-menerus.
-Deskripsi Tinggi | Individu yang memiliki skor tinggi menganggap frustrasi ringan sebagai sesuatu yang sangat berat, dan akan terlihat tidak enerjik dan sulit untuk memulai sesuatu. 
+Deskripsi Tinggi | Individu yang memiliki skor tinggi menganggap frustrasi ringan sebagai sesuatu yang sangat berat, dan akan terlihat tidak enerjik dan sulit untuk memulai sesuatu.
 
 ### Un Self-Consciousness
 
@@ -219,7 +219,7 @@ Kode  | MSAD
 Alias INA | Kekhawatiran Diri
 Definisi | Karakter yang menggambarkan sikap seseorang terhadap apa yang dipikirkan orang lain tentang dirinya.
 Deskripsi Rendah | Individu yang mendapatkan skor rendah tidak tersiksa oleh prasangka bahwa semua orang memperhatikan dan menilai mereka. Mereka tidak merasa gugup ketika berada di keramaian.
-Deskripsi Tinggi | Individu yang mendapatkan skor tinggi sensitif terhadap apa yang dipikirkan orang lain tentang dirinya. Kekhawatiran mereka tentang penolakan dan cemoohan menyebabkan mereka merasa malu dan tidak nyaman ketika berada dalam keramaian. Mereka mudah merasa malu dan sering merasa dipermalukan. Ketakutan mereka bahwa orang lain akan mengkritik atau mengolok-olok mereka sebenarnya berlebihan dan tidak realistis, tetapi kecanggungan dan ketidaknyamanan yang mereka alami membuat ketakutan ini benar-benar terjadi pada akhirnya. 
+Deskripsi Tinggi | Individu yang mendapatkan skor tinggi sensitif terhadap apa yang dipikirkan orang lain tentang dirinya. Kekhawatiran mereka tentang penolakan dan cemoohan menyebabkan mereka merasa malu dan tidak nyaman ketika berada dalam keramaian. Mereka mudah merasa malu dan sering merasa dipermalukan. Ketakutan mereka bahwa orang lain akan mengkritik atau mengolok-olok mereka sebenarnya berlebihan dan tidak realistis, tetapi kecanggungan dan ketidaknyamanan yang mereka alami membuat ketakutan ini benar-benar terjadi pada akhirnya.
 
 ### Immoderation
 
@@ -229,7 +229,7 @@ Kode  | MWAJ
 Alias INA | Ketidakwajaran
 Definisi | Karakter yang menggambarkan sikap seseorang terhadap hasrat yang kuat
 Deskripsi Rendah | Skor yang rendah menunjukkan bahwa seorang individu tidak memiliki hasrat yang kuat dan tak tertahankan, sehingga tidak tergoda untuk menuruti keinginan diri secara berlebihan.
-Deskripsi Tinggi | Skor yang tinggi menunjukkan bahwa seorang individu merasakan hasrat yang kuat serta desakan yang sangat sulit dikendalikan. Mereka cenderung lebih mengutamakan kesenangan dan manfaat sesaat daripada memikirkan konsekuensi yang harus dihadapi dalam jangka panjangnya nanti. 
+Deskripsi Tinggi | Skor yang tinggi menunjukkan bahwa seorang individu merasakan hasrat yang kuat serta desakan yang sangat sulit dikendalikan. Mereka cenderung lebih mengutamakan kesenangan dan manfaat sesaat daripada memikirkan konsekuensi yang harus dihadapi dalam jangka panjangnya nanti.
 
 ### Vulnerability
 
@@ -239,7 +239,7 @@ Kode  | MTEG
 Alias INA | Kerapuhan
 Definisi | Karakter yang menggambarkan sikap seseorang ketika berada di bawah tekanan.
 Deskripsi Rendah | Individu yang mendapat skor rendah merasa lebih siap, percaya diri, dan mampu berpikir jernih saat dilanda stres.
-Deskripsi Tinggi | Individu yang mendapat skor tinggi mengalami kepanikan, kebingungan, dan merasa tak berdaya ketika berada di bawah tekanan atau stres. 
+Deskripsi Tinggi | Individu yang mendapat skor tinggi mengalami kepanikan, kebingungan, dan merasa tak berdaya ketika berada di bawah tekanan atau stres.
 
 ### Imagination
 
@@ -250,7 +250,7 @@ Alias INA | Imajinatif
 Definisi | Karakter yang menggambarkan kemampuan seseorang dalam membayangkan dan mengabstraksikan hal-hal yang sebenarnya jauh dari pengalaman konkret.
 Deskripsi Rendah | Individu yang mendapat skor rendah lebih berorientasi pada fakta daripada fantasi, lebih menyukai sesuatu yang sederhana, lugas, jelas (mudah dimengerti) dan memiliki manfaat secara praktis.
 Deskripsi Tinggi | Bagi individu yang imajinatif, dunia nyata seringkali terlalu sederhana dan biasa. Skor yang tinggi menggunakan fantasi sebagai cara untuk menciptakan dunia yang lebih kaya dan lebih menarik.
- 
+
 ### Artistic Interests
 
 Nama  | Artistic Interests
@@ -259,7 +259,7 @@ Kode  | BART
 Alias INA | Keartistikan
 Definisi | Karakter yang menggambarkan minat dan apresiasi seseorang terhadap keindahan, baik keindahan alam maupun keindahan benda-benda buatan.
 Deskripsi Rendah | Individu yang mendapat skor rendah menunjukkan kurangnya sensitivitas mereka terhadap estetika serta minat mereka terhadap seni.
-Deskripsi Tinggi | Skor yang tinggi menunjukkan bahwa seorang individu mencintai keindahan, baik keindahan seni maupun keindahan alam. Mereka mudah tertarik dan terpikat pada kejadian alam dan peristiwa yang bernuansa artistik. Mereka belum tentu terlatih secara artistik atau berbakat, meskipun banyak di antara mereka bisa jadi memang memilikinya. 
+Deskripsi Tinggi | Skor yang tinggi menunjukkan bahwa seorang individu mencintai keindahan, baik keindahan seni maupun keindahan alam. Mereka mudah tertarik dan terpikat pada kejadian alam dan peristiwa yang bernuansa artistik. Mereka belum tentu terlatih secara artistik atau berbakat, meskipun banyak di antara mereka bisa jadi memang memilikinya.
 
 ### Emotionality
 
@@ -269,7 +269,7 @@ Kode  | BPEK
 Alias INA | Kepekaan
 Definisi | Karakter yang menggambarkan kesadaran seseorang terhadap perasaan mereka sendiri
 Deskripsi Rendah | Skor yang rendah menunjukkan bahwa seorang individu kurang menyadari perasaan mereka dan cenderung tidak mengekspresikan emosi mereka secara terbuka.
-Deskripsi Tinggi | Skor yang tinggi menunjukkan bahwa seorang individu mampu menyadari dan menjangkau ke dalam perasaan mereka sendiri. 
+Deskripsi Tinggi | Skor yang tinggi menunjukkan bahwa seorang individu mampu menyadari dan menjangkau ke dalam perasaan mereka sendiri.
 
 ### Adventurousness
 
@@ -279,7 +279,7 @@ Kode  | BAVO
 Alias INA | Keavonturiran
 Definisi | Karakter yang menggambarkan keinginan seseorang untuk mencoba kegiatan baru
 Deskripsi Rendah | Individu yang mendapat skor rendah merasa tidak nyaman dengan perubahan dan lebih memilih rutinitas yang sudah sering mereka jalani.
-Deskripsi Tinggi | Individu yang mendapat skor tinggi mselalu ingin mencoba kegiatan baru, perjalanan ke negara-negara yang masih asing, dan mengalami hal-hal yang berbeda. Mereka merasa bosan terhadap rutinitas dan hal-hal yang sudah mereka kenal. Mereka juga cenderung memilih jalan lain untuk pulang ke rumah, hanya karena jalan tersebut berbeda dari yang biasa mereka tempuh. 
+Deskripsi Tinggi | Individu yang mendapat skor tinggi mselalu ingin mencoba kegiatan baru, perjalanan ke negara-negara yang masih asing, dan mengalami hal-hal yang berbeda. Mereka merasa bosan terhadap rutinitas dan hal-hal yang sudah mereka kenal. Mereka juga cenderung memilih jalan lain untuk pulang ke rumah, hanya karena jalan tersebut berbeda dari yang biasa mereka tempuh.
 
 ### Intellect
 
@@ -287,8 +287,8 @@ Nama  | Intellect
 :-----|:----
 Kode  | BINT
 Alias INA | Intelektualitas
-Definisi | Intelektualitas dan keartistikan adalah dua aspek sentral dari Openness yang paling penting. Intelektualitas berbeda dengan kecerdasan. Intelektualitas adalah gaya intelektual, bukan kemampuan intelektual, meskipun orang yang mendapatkan skor intelektualitas tinggi umumnya mendapatkan skor sedikit lebih tinggi pada tes kecerdasan standar dibandingkan dengan orang yang skor intelektualitasnya rendah.
-Deskripsi Rendah | Individu yang skornya rendah lebih suka berurusan dengan orang lain atau hal lain ketimbang dengan gagasan. Mereka menganggap latihan intelektual (intellectual exercise) adalah buang-buang waktu. 
+Definisi | Intelektualitas dan keartistikan adalah dua aspek sentral dari _Openness_ yang paling penting. Intelektualitas berbeda dengan kecerdasan. Intelektualitas adalah gaya intelektual, bukan kemampuan intelektual, meskipun orang yang mendapatkan skor intelektualitas tinggi umumnya mendapatkan skor sedikit lebih tinggi pada tes kecerdasan standar dibandingkan dengan orang yang skor intelektualitasnya rendah.
+Deskripsi Rendah | Individu yang skornya rendah lebih suka berurusan dengan orang lain atau hal lain ketimbang dengan gagasan. Mereka menganggap latihan intelektual (_intellectual exercise_) adalah buang-buang waktu.
 Deskripsi Tinggi | Individu yang skornya tinggi suka bermain dengan berbagai gagasan. Mereka terbuka terhadap ide-ide baru dan tidak biasa, serta suka berdebat membahas isu-isu intelektual. Mereka menikmati teka-teki, tebakan, dan permainan asah otak.
 
 ### Liberalism
@@ -299,7 +299,7 @@ Kode  | BLIB
 Alias INA | Keliberalan
 Definisi | Karakter yang mengacu pada kesiapan seseorang untuk menentang otoritas, kesepakatan, dan nilai-nilai tradisional.
 Deskripsi Rendah | Skor yang rendah mengacu pada seorang individu yang konservatif, yang secara psikologis lebih memilih keamanan dan stabilitas yang sesuai dengan tradisi.
-Deskripsi Tinggi | Skor yang tinggi dalam bentuk yang paling ekstrim dapat melambangkan kebencian seorang individu terhadap aturan, simpati terhadap pelanggar hukum, serta menyukai ambiguitas, kekacauan, dan kekalutan. 
+Deskripsi Tinggi | Skor yang tinggi dalam bentuk yang paling ekstrim dapat melambangkan kebencian seorang individu terhadap aturan, simpati terhadap pelanggar hukum, serta menyukai ambiguitas, kekacauan, dan kekalutan.
 
 ### Agreeableness
 
@@ -333,7 +333,7 @@ Alias INA | Kesupelan
 Definisi | Karakter yang menggambarkan keterlibatan seseorang dengan dunia luar.
 Deskripsi Rendah | Skor yang rendah menunjukkan bahwa seorang individu merupakan orang yang introvert, pendiam, dan tenang. Ia menikmati kesendirian dan kegiatan yang bisa dilakukan sendirian (soliter). Sosialisasi yang dilakukannya cenderung terbatas pada beberapa teman dekat.
 Deskripsi Menengah | Skor menengah menunjukkan bahwa seorang individu bukan seorang yang penyendiri dan pendiam, tetapi juga bukan orang yang cerewet atau periang. Ia menikmati waktu dengan orang lain, tetapi juga menikmati kesendirian.
-Deskripsi Rendah | Skor yang tinggi menunjukkan bahwa seorang individu suka bersosialisasi, enerjik, dan bersemangat. Ia cenderung lebih sering bersama orang banyak.
+Deskripsi tinggi | Skor yang tinggi menunjukkan bahwa seorang individu suka bersosialisasi, enerjik, dan bersemangat. Ia cenderung lebih sering bersama orang banyak.
 
 ### Stress Tolerance
 
@@ -341,7 +341,7 @@ Nama  | Stress Tolerance
 :-----|:----
 Kode  | N
 Alias INA | Toleransi terhadap Stress
-Definisi | Karakter yang mengacu pada kecenderungan seorang untuk mengalami perasaan negatif. 
+Definisi | Karakter yang mengacu pada kecenderungan seorang untuk mengalami perasaan negatif.
 Deskripsi Rendah | Skor yang rendah menunjukkan bahwa seorang individu sangat tenang, berkepala dingin, dan tidak mudah panik maupun heboh. Ia tidak bereaksi dengan emosi yang intens, bahkan ketika menghadapi situasi yang bagi banyak orang terasa sangat menekan.
 Deskripsi Menengah | Skor menengah menunjukkan bahwa reaksi emosional seorang individu berada pada tingkat yang mirip atau setara dengan orang-orang pada umumnya. Situasi stres dan frustrasi cukup menjengkelkan baginya, tetapi ia masih mampu mengatasi perasaannya dan menyiasati situasi tersebut.
 Deskripsi Tinggi | Skor yang tinggi menunjukkan bahwa seorang individu mudah marah, bahkan terhadap hal-hal yang bagi kebanyakan orang dianggap sebagai persoalan hidup yang normal. Orang-orang menganggapnya sebagai pribadi yang sensitif dan emosional.
@@ -352,7 +352,7 @@ Nama  | Openness
 :-----|:----
 Kode  | O
 Alias INA | Keterbukaan
-Definisi | Karakter yang mendeskripsikan dimensi dari tipe kognitif yang membedakan antara orang-orang yang imajinatif dan kreatif dengan orang-orang yang down-to-earth dan konvensional. 
-Deskripsi Rendah | Skor yang rendah menunjukkan bahwa seorang individu suka berpikir dengan cara yang lugas dan sederhana. Orang lain mendeskripsikan individu semacam ini sebagai orang yang down-to-earth, praktis, dan konservatif.
+Definisi | Karakter yang mendeskripsikan dimensi dari tipe kognitif yang membedakan antara orang-orang yang imajinatif dan kreatif dengan orang-orang yang _down-to-earth_ dan konvensional.
+Deskripsi Rendah | Skor yang rendah menunjukkan bahwa seorang individu suka berpikir dengan cara yang lugas dan sederhana. Orang lain mendeskripsikan individu semacam ini sebagai orang yang _down-to-earth_, praktis, dan konservatif.
 Deskripsi Menengah | Skor menengah menunjukkan bahwa seorang individu menikmati tradisi tapi bersedia untuk mencoba hal-hal baru. Pemikirannya tidak sederhana, tapi juga tidak kompleks. Bagi orang lain ia terlihat sebagai orang yang berpendidikan, tapi bukan orang yang terpelajar.
 Deskripsi Tinggi | Skor yang tinggi mengindikasikan bahwa seorang individu menikmati hal-hal baru, keragaman, dan perubahan. Ia seorang yang penuh rasa ingin tahu, imajinatif, dan kreatif.
