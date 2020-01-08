@@ -3,30 +3,18 @@
 ![image](capture.JPG)
 
 
-G-MATe
-GAIA Management Aptitude Test
+G-PRO
+GAIA Professional Leadership and Management Profilor
+
+LEADERSHIP PROFILOR
+
+BACALAH DENGAN SEKSAMA DAN PASTIKAN SEMUA JAWABAN TERISI
 
 Instruksi Umum
 
-Pada halaman-halaman berikut ini Anda akan menemukan sejumlah kondisi yang diikuti dengan pertanyaan mengenai situasi-situasi manajemen terkait dengan kondisi tersebut. 
-Jumlah kondisi secara keseluruhan ada 22, setiap kondisi akan diikuti oleh 1 hingga 5 pertanyaan. Total pertanyaan ada 45.
-Tugas Anda adalah untuk menilai situasi tersebut dan memberi respon yang menurut Anda tepat untuk situasi atau pertanyaan tersebut, dengan cara memberikan tanda silang ( X ) pada lembar jawab yang telah tersedia. 
-
-![image](Jadwal Lelang.JPG)
-
-Apabila pilihan Anda salah, maka hapuslah pilihan tersebut dan silanglah pada pilihan yang benar.
-
-Anda tidak diperbolehkan membuat coretan apapun dalam buku soal. Anda dapat menggunakan kertas buram untuk membuat catatan, menghitung maupun memperkirakan jawaban yang akan Anda berikan. 
-
-Jika Anda punya pertanyaan, ajukanlah sekarang. Pastikan bahwa Anda sudah memahami instruksi yang ada pada saat mulai mengerjakan. Dalam tugas ini terkandung 45 soal yang membutuhkan waktu selama 75 menit.
-
-Cobalah untuk bekerja secepat dan seakurat mungkin. Jangan terpaku pada 1 soal jika soal tersebut dirasa sulit, cobalah untuk mengerjakan soal lain terlebih dahulu. 
-
-
-
-
-
-
+Harap isi kuesioner ini dengan benar dan akurat.
+Dari setiap kombinasi 2 pernyataan yang ada, berilah nilai untuk masing masing pernyataan, yang menurut anda paling merefleksikan diri anda. Isilah dengan 3 kalau pernyataan tersebut sangat merefleksikan anda, 2 untuk yang cukup merefleksikan anda, 1 untuk yang tidak begitu merefleksikan diri anda, dan 0 untuk yang sama sekali tidak mencerminkan diri anda.
+Jumlah nilai untuk setiap kombinasi 2 pernyataan haruslah = 3; sehingga anda bisa mengisi dengan nilai 1 - 2, 2 - 1, 0 – 3, atau 3 – 0, untuk setiap kombinasi 2 pernyataan.
 
 Bukalah halaman berikutnya dan mulailah bekerja.
 
