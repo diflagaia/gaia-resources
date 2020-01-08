@@ -28,17 +28,11 @@ Contoh:
 Saya cenderung …
 
 **No** | | **Pernyataan** | **Pilihan** |
-:-----:|:-----:|:-----|:-----|
+:-----|:-----:|:-----|-----:|
 | 1 | A | mencoba berbagai hal jadi nomer satu, berhasil atau tidak itu urusan lain | |
 | 1 | B | fokus pada suatu hal dan jalankan sesempurna mungkin | |
-
-**No** | | **Pernyataan** | **Pilihan** |
-:-----:|:-----:|:-----|:-----|
 | 2 | A | dianggap sebagai pemimpin yang dinamis dan suka pekerjaan yang menantang | |
 | 2 | B | dianggap sebagai pemimpin yang  kalem, bertanggung jawab, dan mengayomi | |
-
-**No** | | **Pernyataan** | **Pilihan** |
-:-----:|:-----:|:-----|:-----|
 | 3 | A | mengutamakan profesionalitas dan hati nurani | |
 | 3 | B | menerima bahwa kadang keberhasilan nomer satu, cara tidak penting | |
 
