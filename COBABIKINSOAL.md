@@ -43,28 +43,153 @@ Ada 60 kombinasi pernyataan, kerjakan dengan cepat dan teliti,  tanpa harus terl
 GANTI HALAMAN
 ---
 
+Saya cenderung …
 
 **No** | | **Pernyataan** | **Pilihan** |
-:-----:|:-----:|:-----|:-----:|
-| 1 | A | Saya berkonsentrasi pada apa yang harus dilakukan untuk langkah selanjutnya | |
-| 1 | B | Saya mencoba untuk mendapatkan sudut pandang lain terhadap situasi tersebut | |
+:-----|:-----:|:-----|-----:|
+| 1 | A | mengatur dan mengawasi secara langsung pekerjaan bawahan | |
+| 1 | B | mendorong dan menyemangati bawahan | |
+| 2 | A | mengelola,  mengatur, mengawasi pekerjaan tanpa harus terlibat langsung | |
+| 2 | B | lebih suka terlibat dan terjun langsung dengan pekerjaan | |
+| 3 | A | sering melakukan tindakan kontroversial dan terobosan baru | |
+| 3 | B | lebih suka mengkonsolidasi dan mengamankan berbagai hal yang telah dicapai | |
+| 4 | A | bekerja  mendahulukan fakta,  analisa, dan logika | |
+| 4 | B | bekerja mengutamakan imajinasi, inspirasi dan kreatifitas | |
+| 5 | A | menyelesaikan satu bagian sampai tuntas, baru melangkah ke bagian selanjutnya | |
+| 5 | B | lanjut ke langkah berikutnya, dan tetap menuntaskan sedikit sisa sebelumnya | |
+| 6 | A | senang mengerjakan tugas semandiri mungkin | |
+| 6 | B | bekerja dan menyelesaikan tugas secara tim/kerja kelompok | |
+| 7 | A | membina kolaborasi yang produktif | |
+| 7 | B | memobilisasi tim secara langsung | |
+| 8 | A | lugas mengingatkan ketika semangat kerja bawahan menurun | |
+| 8 | B | menurunkan irama kerja ketika kinerja bawahan menurun | |
+| 9 | A | senang dengan kondisi kerja yang penuh variasi dan gejolak | |
+| 9 | B | memilih situasi kerja yang tidak variatif dan rutin | |
+| 10 | A | mengandalkan prinsip tertib dan taat azas | |
+| 10 | B | lebih senang fleksibel dan bereksperimen | |
+
+Saya cenderung …
 
 **No** | | **Pernyataan** | **Pilihan** |
-:-----:|:-----:|:-----|:-----:|
-| 2 | A | Saya berkonsentrasi pada apa yang harus dilakukan untuk langkah selanjutnya | |
-| 2 | B | Saya mencoba untuk mendapatkan sudut pandang lain terhadap situasi tersebut | |
+:-----|:-----:|:-----|-----:|
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+
+Saya cenderung …
 
 **No** | | **Pernyataan** | **Pilihan** |
-:-----:|:-----:|:-----|:-----:|
-| 3 | A | Saya berkonsentrasi pada apa yang harus dilakukan untuk langkah selanjutnya | |
-| 3 | B | Saya mencoba untuk mendapatkan sudut pandang lain terhadap situasi tersebut | |
+:-----|:-----:|:-----|-----:|
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+
+Saya cenderung …
 
 **No** | | **Pernyataan** | **Pilihan** |
-:-----:|:-----:|:-----|:-----:|
-| 4 | A | Saya berkonsentrasi pada apa yang harus dilakukan untuk langkah selanjutnya | |
-| 4 | B | Saya mencoba untuk mendapatkan sudut pandang lain terhadap situasi tersebut | |
+:-----|:-----:|:-----|-----:|
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+
+Saya cenderung …
 
 **No** | | **Pernyataan** | **Pilihan** |
-:-----:|:-----:|:-----|:-----:|
-| 5 | A | Saya berkonsentrasi pada apa yang harus dilakukan untuk langkah selanjutnya | |
-| 5 | B | Saya mencoba untuk mendapatkan sudut pandang lain terhadap situasi tersebut | |
+:-----|:-----:|:-----|-----:|
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+
+Saya cenderung …
+
+**No** | | **Pernyataan** | **Pilihan** |
+:-----|:-----:|:-----|-----:|
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+|  | A |  | |
+|  | B |  | |
+
