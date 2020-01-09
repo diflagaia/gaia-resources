@@ -136,55 +136,55 @@ GANTI HALAMAN
 
 **No** | **Pernyataan** | **STS** | **TS** | **R** | **S** | **SS** |
 :-----:|:-----|:-----:|:-----:|:-----:|:-----:|:----:|
-| 81 | ... |  | | | | | |
-| 82 | ... |  | | | | | |
-| 83 | ... |  | | | | | |
-| 84 | ... |  | | | | | |
-| 85 | ... |  | | | | | |
-| 86 | ... |  | | | | | |
-| 87 | ... |  | | | | | |
-| 88 | ... |  | | | | | |
-| 89 | ... |  | | | | | |
-| 90 | ... |  | | | | | |
+| 81 | Mudah menahan godaan |  | | | | | |
+| 82 | Suka nekat dan ugal-ugalan |  | | | | | |
+| 83 | Sulit mengikuti ide yang abstrak |  | | | | | |
+| 84 | Berpikir lebih tentang diri sendiri |  | | | | | |
+| 85 | Membuang-buang waktu |  | | | | | |
+| 86 | Merasa tidak mampu menjalankan beragam dan banyak hal |  | | | | | |
+| 87 | Mencintai hidup |  | | | | | |
+| 88 | Cenderung untuk memilih kandidat politik yang konservatif |  | | | | | |
+| 89 | Tidak peduli dengan permasalahan orang lain |  | | | | | |
+| 90 | Terburu-buru mengambil keputusan |  | | | | | |
 
 **No** | **Pernyataan** | **STS** | **TS** | **R** | **S** | **SS** |
 :-----:|:-----|:-----:|:-----:|:-----:|:-----:|:----:|
-| 91 | ... |  | | | | | |
-| 92 | ... |  | | | | | |
-| 93 | ... |  | | | | | |
-| 94 | ... |  | | | | | |
-| 95 | ... |  | | | | | |
-| 96 | ... |  | | | | | |
-| 97 | ... |  | | | | | |
-| 98 | ... |  | | | | | |
-| 99 | ... |  | | | | | |
-| 100 | ... |  | | | | | |
+| 91 | Gampang stress |  | | | | | |
+| 92 | Menjaga jarak |  | | | | | |
+| 93 | Sering tenggelam dengan pikiran sendiri |  | | | | | |
+| 94 | Tidak percaya orang lain |  | | | | | |
+| 95 | Tahu bagaimana mengerjakan sesuatu dengan benar |  | | | | | |
+| 96 | Tidak mudah terganggu |  | | | | | |
+| 97 | Menghindari keramaian |  | | | | | |
+| 98 | Tidak suka ke museum |  | | | | | |
+| 99 | Menghalangi rencana orang lain |  | | | | | |
+| 100 | Barang-barang saya tersebar di mana-mana |  | | | | | |
 
 **No** | **Pernyataan** | **STS** | **TS** | **R** | **S** | **SS** |
 :-----:|:-----|:-----:|:-----:|:-----:|:-----:|:----:|
-| 101 | ... |  | | | | | |
-| 102| ... |  | | | | | |
-| 103 | ... |  | | | | | |
-| 104 | ... |  | | | | | |
-| 105 | ... |  | | | | | |
-| 106 | ... |  | | | | | |
-| 107 | ... |  | | | | | |
-| 108 | ... |  | | | | | |
-| 109 | ... |  | | | | | |
-| 110 | ... |  | | | | | |
+| 101 | Merasa nyaman dengan diri saya sendiri |  | | | | | |
+| 102| Menunggu ada orang lain yang memimpin |  | | | | | |
+| 103 | Tidak bisa menangkap maksud dari orang yang sedang emosi |  | | | | | |
+| 104 | Tidak ada waktu untuk orang lain |  | | | | | |
+| 105 | Tidak menepati janji |  | | | | | |
+| 106 | Tidak terganggu oleh situasi sosial yang tidak mengenakkan |  | | | | | |
+| 107 | Orang yang santai |  | | | | | |
+| 108 | Berpegang teguh pada cara-cara yang konvensional |  | | | | | |
+| 109 | Membalas balik |  | | | | | |
+| 110 | Tidak harus _ngoyo_ berupaya dan bekerja keras |  | | | | | |
 
 **No** | **Pernyataan** | **STS** | **TS** | **R** | **S** | **SS** |
 :-----:|:-----|:-----:|:-----:|:-----:|:-----:|:----:|
-| 111 | ... |  | | | | | |
-| 112 | ... |  | | | | | |
-| 113 | ... |  | | | | | |
-| 114 | ... |  | | | | | |
-| 115 | ... |  | | | | | |
-| 116 | ... |  | | | | | |
-| 117 | ... |  | | | | | |
-| 118 | ... |  | | | | | |
-| 119 | ... |  | | | | | |
-| 120 | ... |  | | | | | |
+| 111 | Mampu mengendalikan hasrat saya |  | | | | | |
+| 112 | Suka gila-gilaan |  | | | | | |
+| 113 | Tidak tertarik dengan diskusi teoritis |  | | | | | |
+| 114 | Menceritakan kebaikan pribadi yang telah dilakukan |  | | | | | |
+| 115 | Kesulitan untuk mulai mengerjakan tugas |  | | | | | |
+| 116 | Tetap tenang dibawah tekanan |  | | | | | |
+| 117 | Selalu melihat dari sisi positifnya |  | | | | | |
+| 118 | Percaya bahwa kita harus bereaksi keras terhadap kejahatan |  | | | | | |
+| 119 | Tidak terlalu memikirkan mereka yang kesusahan |  | | | | | |
+| 120 | Bertindak tanpa pikir panjang lebih dahulu |  | | | | | |
 
 
 **<p align="center"> Terima kasih </p>**
