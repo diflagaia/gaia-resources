@@ -42,9 +42,6 @@ GANTI HALAMAN
 | 8 | Percaya pada pentingnya seni |  | | | | | |
 | 9 | Memanfaatkan orang lain untuk kepentingan pribadi |  | | | | | |
 | 10 | Suka kerapian |  | | | | | |
-
-**No** | **Pernyataan** | **STS** | **TS** | **R** | **S** | **SS** |
-:-----:|:-----|:-----:|:-----:|:-----:|:-----:|:----:|
 | 11 | Sering merasa sedih |  | | | | | |
 | 12 | Mengambil alih pekerjaan |  | | | | | |
 | 13 | Merasakan secara intens emosi yang sedang dialami |  | | | | | |
@@ -55,9 +52,6 @@ GANTI HALAMAN
 | 18 | Tidak suka rutinitas |  | | | | | |
 | 19 | Senang berdebat |  | | | | | |
 | 20 | Pekerja keras |  | | | | | |
-
-**No** | **Pernyataan** | **STS** | **TS** | **R** | **S** | **SS** |
-:-----:|:-----|:-----:|:-----:|:-----:|:-----:|:----:|
 | 21 | Plesir dan berfoya-foya |  | | | | | |
 | 22 | Suka hal yang heboh dan hura-hura |  | | | | | |
 | 23 | Suka membaca beragam topik yang sulit dan menantang |  | | | | | |
@@ -68,9 +62,6 @@ GANTI HALAMAN
 | 28 | Cenderung memilih kandidat politik yang liberal |  | | | | | |
 | 29 | Bersimpati pada para gelandangan |  | | | | | |
 | 30 | Tidak berpikir panjang langsung bereaksi |  | | | | | |
-
-**No** | **Pernyataan** | **STS** | **TS** | **R** | **S** | **SS** |
-:-----:|:-----|:-----:|:-----:|:-----:|:-----:|:----:|
 | 31 | Takut hal-hal buruk akan terjadi |  | | | | | |
 | 32 | Merasa nyaman berada di sekitar orang banyak |  | | | | | |
 | 33 | Menikmati fantasi yang liar dan khayali |  | | | | | |
@@ -81,9 +72,6 @@ GANTI HALAMAN
 | 38 | Melihat keindahan tersendiri yang orang lain tidak melihatnya |  | | | | | |
 | 39 | Berani curang demi mencapai tujuan |  | | | | | |
 | 40 | Sering lupa mengembalikan sesuatu pada tempatnya |  | | | | | |
-
-**No** | **Pernyataan** | **STS** | **TS** | **R** | **S** | **SS** |
-:-----:|:-----|:-----:|:-----:|:-----:|:-----:|:----:|
 | 41 | Membenci diri sendiri |  | | | | | |
 | 42 | Berusaha memimpin |  | | | | | |
 | 43 | Merasakan emosi orang lain |  | | | | | |
@@ -94,9 +82,6 @@ GANTI HALAMAN
 | 48 | Bersikukuh dengan hal-hal yang saya tahu |  | | | | | |
 | 49 | Berteriak ke orang lain |  | | | | | |
 | 50 | Bekerja lebih dari yang diharapkan |  | | | | | |
-
-**No** | **Pernyataan** | **STS** | **TS** | **R** | **S** | **SS** |
-:-----:|:-----|:-----:|:-----:|:-----:|:-----:|:----:|
 | 51 | Jarang bertindak mengikuti nafsu belaka |  | | | | | |
 | 52 | Menyukai petualangan yang menantang |  | | | | | |
 | 53 | Menghindari diskusi yang filosofis |  | | | | | |
@@ -107,9 +92,6 @@ GANTI HALAMAN
 | 58 | Percaya bahwa tidak ada hal yang mutlak benar atau salah |  | | | | | |
 | 59 | Bersimpati pada mereka yang lebih menderita |  | | | | | |
 | 60 | Secepat kilat mengambil keputusan |  | | | | | |
-
-**No** | **Pernyataan** | **STS** | **TS** | **R** | **S** | **SS** |
-:-----:|:-----|:-----:|:-----:|:-----:|:-----:|:----:|
 | 61 | Takut pada banyak hal |  | | | | | |
 | 62 | Menghindari kontak dengan orang lain |  | | | | | |
 | 63 | Suka melamun dan berkhayal |  | | | | | |
@@ -120,9 +102,6 @@ GANTI HALAMAN
 | 68 | Tidak suka puisi |  | | | | | |
 | 69 | Mengambil keuntungan dari upaya orang lain |  | | | | | |
 | 70 | Kamar sering berantakan |  | | | | | |
-
-**No** | **Pernyataan** | **STS** | **TS** | **R** | **S** | **SS** |
-:-----:|:-----|:-----:|:-----:|:-----:|:-----:|:----:|
 | 71 | Sering larut dalam kesedihan |  | | | | | |
 | 72 | Mengontrol beragam hal |  | | | | | |
 | 73 | Jarang memperhatikan reaksi emosi saya sendiri |  | | | | | |
@@ -133,9 +112,6 @@ GANTI HALAMAN
 | 78 | Tidak suka perubahan |  | | | | | |
 | 79 | Menghina orang |  | | | | | |
 | 80 | Bekerja secukupnya asal sesuai dengan yang diharapkan |  | | | | | |
-
-**No** | **Pernyataan** | **STS** | **TS** | **R** | **S** | **SS** |
-:-----:|:-----|:-----:|:-----:|:-----:|:-----:|:----:|
 | 81 | Mudah menahan godaan |  | | | | | |
 | 82 | Suka nekat dan ugal-ugalan |  | | | | | |
 | 83 | Sulit mengikuti ide yang abstrak |  | | | | | |
@@ -146,9 +122,6 @@ GANTI HALAMAN
 | 88 | Cenderung untuk memilih kandidat politik yang konservatif |  | | | | | |
 | 89 | Tidak peduli dengan permasalahan orang lain |  | | | | | |
 | 90 | Terburu-buru mengambil keputusan |  | | | | | |
-
-**No** | **Pernyataan** | **STS** | **TS** | **R** | **S** | **SS** |
-:-----:|:-----|:-----:|:-----:|:-----:|:-----:|:----:|
 | 91 | Gampang stress |  | | | | | |
 | 92 | Menjaga jarak |  | | | | | |
 | 93 | Sering tenggelam dengan pikiran sendiri |  | | | | | |
@@ -159,9 +132,6 @@ GANTI HALAMAN
 | 98 | Tidak suka ke museum |  | | | | | |
 | 99 | Menghalangi rencana orang lain |  | | | | | |
 | 100 | Barang-barang saya tersebar di mana-mana |  | | | | | |
-
-**No** | **Pernyataan** | **STS** | **TS** | **R** | **S** | **SS** |
-:-----:|:-----|:-----:|:-----:|:-----:|:-----:|:----:|
 | 101 | Merasa nyaman dengan diri saya sendiri |  | | | | | |
 | 102| Menunggu ada orang lain yang memimpin |  | | | | | |
 | 103 | Tidak bisa menangkap maksud dari orang yang sedang emosi |  | | | | | |
@@ -172,9 +142,6 @@ GANTI HALAMAN
 | 108 | Berpegang teguh pada cara-cara yang konvensional |  | | | | | |
 | 109 | Membalas balik |  | | | | | |
 | 110 | Tidak harus _ngoyo_ berupaya dan bekerja keras |  | | | | | |
-
-**No** | **Pernyataan** | **STS** | **TS** | **R** | **S** | **SS** |
-:-----:|:-----|:-----:|:-----:|:-----:|:-----:|:----:|
 | 111 | Mampu mengendalikan hasrat saya |  | | | | | |
 | 112 | Suka gila-gilaan |  | | | | | |
 | 113 | Tidak tertarik dengan diskusi teoritis |  | | | | | |
