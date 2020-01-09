@@ -84,55 +84,55 @@ GANTI HALAMAN
 
 **No** | **Pernyataan** | **STS** | **TS** | **R** | **S** | **SS** |
 :-----:|:-----|:-----:|:-----:|:-----:|:-----:|:----:|
-| 41 | ... |  | | | | | |
-| 42 | ... |  | | | | | |
-| 43 | ... |  | | | | | |
-| 44 | ... |  | | | | | |
-| 45 | ... |  | | | | | |
-| 46 | ... |  | | | | | |
-| 47 | ... |  | | | | | |
-| 48 | ... |  | | | | | |
-| 49 | ... |  | | | | | |
-| 50 | ... |  | | | | | |
+| 41 | Membenci diri sendiri |  | | | | | |
+| 42 | Berusaha memimpin |  | | | | | |
+| 43 | Merasakan emosi orang lain |  | | | | | |
+| 44 | Peduli dengan orang lain |  | | | | | |
+| 45 | Berkata apa adanya |  | | | | | |
+| 46 | Takut kalau orang lain jadi memperhatikan saya |  | | | | | |
+| 47 | Selalu siap siaga dan siap sedia |  | | | | | |
+| 48 | Bersikukuh dengan hal-hal yang saya tahu |  | | | | | |
+| 49 | Berteriak ke orang lain |  | | | | | |
+| 50 | Bekerja lebih dari yang diharapkan |  | | | | | |
 
 **No** | **Pernyataan** | **STS** | **TS** | **R** | **S** | **SS** |
 :-----:|:-----|:-----:|:-----:|:-----:|:-----:|:----:|
-| 51 | ... |  | | | | | |
-| 52 | ... |  | | | | | |
-| 53 | ... |  | | | | | |
-| 54 | ... |  | | | | | |
-| 55 | ... |  | | | | | |
-| 56 | ... |  | | | | | |
-| 57 | ... |  | | | | | |
-| 58 | ... |  | | | | | |
-| 59 | ... |  | | | | | |
-| 60 | ... |  | | | | | |
+| 51 | Jarang bertindak mengikuti nafsu belaka |  | | | | | |
+| 52 | Menyukai petualangan yang menantang |  | | | | | |
+| 53 | Menghindari diskusi yang filosofis |  | | | | | |
+| 54 | Bangga dengan diri sendiri |  | | | | | |
+| 55 | Menjalankan segala sesuatu sesuai rencana |  | | | | | |
+| 56 | Kewalahan dan bingung sendiri menghadapi situasi sekitar |  | | | | | |
+| 57 | Penuh canda tawa |  | | | | | |
+| 58 | Percaya bahwa tidak ada hal yang mutlak benar atau salah |  | | | | | |
+| 59 | Bersimpati pada mereka yang lebih menderita |  | | | | | |
+| 60 | Secepat kilat mengambil keputusan |  | | | | | |
 
 **No** | **Pernyataan** | **STS** | **TS** | **R** | **S** | **SS** |
 :-----:|:-----|:-----:|:-----:|:-----:|:-----:|:----:|
-| 61 | ... |  | | | | | |
-| 62 | ... |  | | | | | |
-| 63 | ... |  | | | | | |
-| 64 | ... |  | | | | | |
-| 65 | ... |  | | | | | |
-| 66 | ... |  | | | | | |
-| 67 | ... |  | | | | | |
-| 68 | ... |  | | | | | |
-| 69 | ... |  | | | | | |
-| 70 | ... |  | | | | | |
+| 61 | Takut pada banyak hal |  | | | | | |
+| 62 | Menghindari kontak dengan orang lain |  | | | | | |
+| 63 | Suka melamun dan berkhayal |  | | | | | |
+| 64 | Percaya pada apa yang dikatakan orang |  | | | | | |
+| 65 | Menjalankan tugas dengan mulus |  | | | | | |
+| 66 | Sering lepas kontrol |  | | | | | |
+| 67 | Lebih memilih untuk sendiri |  | | | | | |
+| 68 | Tidak suka puisi |  | | | | | |
+| 69 | Mengambil keuntungan dari upaya orang lain |  | | | | | |
+| 70 | Kamar sering berantakan |  | | | | | |
 
 **No** | **Pernyataan** | **STS** | **TS** | **R** | **S** | **SS** |
 :-----:|:-----|:-----:|:-----:|:-----:|:-----:|:----:|
-| 71 | ... |  | | | | | |
-| 72 | ... |  | | | | | |
-| 73 | ... |  | | | | | |
-| 74 | ... |  | | | | | |
-| 75 | ... |  | | | | | |
-| 76 | ... |  | | | | | |
-| 77 | ... |  | | | | | |
-| 78 | ... |  | | | | | |
-| 79 | ... |  | | | | | |
-| 80 | ... |  | | | | | |
+| 71 | Sering larut dalam kesedihan |  | | | | | |
+| 72 | Mengontrol beragam hal |  | | | | | |
+| 73 | Jarang memperhatikan reaksi emosi saya sendiri |  | | | | | |
+| 74 | Acuh tak acuh terhadap orang lain |  | | | | | |
+| 75 | Melanggar aturan |  | | | | | |
+| 76 | Hanya merasa nyaman di sekitar teman dekat |  | | | | | |
+| 77 | Tidak pernah bisa menganggur |  | | | | | |
+| 78 | Tidak suka perubahan |  | | | | | |
+| 79 | Menghina orang |  | | | | | |
+| 80 | Bekerja secukupnya asal sesuai dengan yang diharapkan |  | | | | | |
 
 **No** | **Pernyataan** | **STS** | **TS** | **R** | **S** | **SS** |
 :-----:|:-----|:-----:|:-----:|:-----:|:-----:|:----:|
