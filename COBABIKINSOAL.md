@@ -23,8 +23,8 @@ GANTI HALAMAN
 Contoh:
 Saya cenderung …
 
-**No** | | **Pernyataan** | **Pilihan** |
-:-----|:-----:|:-----|-----:|
+|**No** | | **Pernyataan** | **Pilihan** |
+|:-----:|:-----:|:-----|:-----|
 | 1 | A | mencoba berbagai hal jadi nomer satu, berhasil atau tidak itu urusan lain | |
 | 1 | B | fokus pada suatu hal dan jalankan sesempurna mungkin | |
 | 2 | A | dianggap sebagai pemimpin yang dinamis dan suka pekerjaan yang menantang | |
@@ -41,8 +41,8 @@ GANTI HALAMAN
 
 Saya cenderung …
 
-**No** | | **Pernyataan** | **Pilihan** |
-:-----|:-----:|:-----|-----:|
+|**No** | | **Pernyataan** | **Pilihan** |
+|:-----:|:-----:|:-----|:-----:|
 | 1 | A | mengatur dan mengawasi secara langsung pekerjaan bawahan | |
 | 1 | B | mendorong dan menyemangati bawahan | |
 | 2 | A | mengelola,  mengatur, mengawasi pekerjaan tanpa harus terlibat langsung | |
@@ -164,6 +164,6 @@ Saya cenderung …
 | 60 | A | bekerja dengan menjadi 'orang di belakang layar' | |
 | 60 | B | bekerja dengan mengorganisir, memotivasi dan memfasilitasi orang lain | |
 
-**Terima kasih**
+**<p align="center"> Terima kasih </p>**
 
-**Selesai**
+**<p align="center"> Selesai</p>**
