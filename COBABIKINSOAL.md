@@ -3,12 +3,11 @@
 ![image](capture.JPG)
 
 
-G-PRO
-GAIA Professional Leadership and Management Profilor
+## G-PRO
+## GAIA Professional Leadership and Management Profilor
+## LEADERSHIP PROFILOR
 
-LEADERSHIP PROFILOR
-
-BACALAH DENGAN SEKSAMA DAN PASTIKAN SEMUA JAWABAN TERISI
+**BACALAH DENGAN SEKSAMA DAN PASTIKAN SEMUA JAWABAN TERISI**
 
 Instruksi Umum
 
@@ -147,49 +146,49 @@ Saya cenderung …
 
 **No** | | **Pernyataan** | **Pilihan** |
 :-----|:-----:|:-----|-----:|
-|  | A |  | |
-|  | B |  | |
-|  | A |  | |
-|  | B |  | |
-|  | A |  | |
-|  | B |  | |
-|  | A |  | |
-|  | B |  | |
-|  | A |  | |
-|  | B |  | |
-|  | A |  | |
-|  | B |  | |
-|  | A |  | |
-|  | B |  | |
-|  | A |  | |
-|  | B |  | |
-|  | A |  | |
-|  | B |  | |
-|  | A |  | |
-|  | B |  | |
+| 41 | A | sering iseng melakukan hal-hal yang tidak terduga | |
+| 41 | B | jarang melakukan hal yang tidak terduga, tanpa alasan yang rasional | |
+| 42 | A | percaya penuh kepada kemampuan orang yang saya beri tugas | |
+| 42 | B | harus merinci semua tugas termasuk beragam kemungkinan yang bisa terjadi | |
+| 43 | A | tenang menghadapi situasi kegagalan, dan mengeksplorasi penyebabnya | |
+| 43 | B | tegas menyatakan pada semuanya, konsekuensi & akibat sebuah kegagalan | |
+| 44 | A | senang membuat bawahan berkembang, sebagai individu maupun tim kerja | |
+| 44 | B | senang kerja yang efisien dan pencapaian target yang impresif | |
+| 45 | A | senang  dengan tugas yang memanfaatkan seluruh kemampuan terbaik saya | |
+| 45 | B | memilih tugas yang penuh persaingan dan "panas" kompetisinya | |
+| 46 | A | membiarkan orang menyelesaikan tugasnya dengan caranya sendiri | |
+| 46 | B | melakukan pengawasan melekat dan memastikan semuanya benar | |
+| 47 | A | bersih, rapi dan formal, serta memperhatikan detil | |
+| 47 | B | bersih dan rapi, tapi informal dan santai | |
+| 48 | A | menyimpan informasi dan gagasan berharga  untuk diri sendiri | |
+| 48 | B | berbagi dan berdiskusi, supaya orang lain juga bisa memanfaatkannya | |
+| 49 | A | menganalisa diri sendiri, ketika banyak hal yang tidak beres | |
+| 49 | B | menunjukkan kekesalan, karena banyak hal yang tidak beres | |
+| 50 | A | menelusuri alasan mengapa orang tidak senang saya dijadikan pemimpin | |
+| 50 | B | berprinsip 'senang-tidak senang', saya adalah yang memimpin | |
 
 Saya cenderung …
 
 **No** | | **Pernyataan** | **Pilihan** |
 :-----|:-----:|:-----|-----:|
-|  | A |  | |
-|  | B |  | |
-|  | A |  | |
-|  | B |  | |
-|  | A |  | |
-|  | B |  | |
-|  | A |  | |
-|  | B |  | |
-|  | A |  | |
-|  | B |  | |
-|  | A |  | |
-|  | B |  | |
-|  | A |  | |
-|  | B |  | |
-|  | A |  | |
-|  | B |  | |
-|  | A |  | |
-|  | B |  | |
-|  | A |  | |
-|  | B |  | |
+| 51 | A | menganggap "yang ragu akan kalah" adalah filosofi manajemen yang baik | |
+| 51 | B | lebih suka filosofi manajemen "pikir dulu baik-baik sebelum melompat" | |
+| 52 | A | mendorong orang berani mengemukakan inisiatif,  ide, dan gagasannya sendiri | |
+| 52 | B | memastikan tujuan, sasaran, jalur kewenangan & prosedur berjalan dengan benar | |
+| 53 | A | berprinsip bahwa apapun yang sudah dimulai harus dituntaskan | |
+| 53 | B | senang melakukan hal yang penting dan utama saja dari satu rangkaian pekerjaan | |
+| 54 | A | tidak peduli dengan orang yang  "sok tahu" dan "sok berkuasa" | |
+| 54 | B | bersikap ketus terhadap orang  "sok tahu" dan "sok berkuasa" | |
+| 55 | A | jadi tempat orang mengadu ketika bermasalah | |
+| 55 | B | jadi tempat orang mencari solusi permasalahan mereka | |
+| 56 | A | dilihat sebagai orang yang terbuka dan suka berbagi | |
+| 56 | B | dilihat sebagai orang yang terampil dan percaya diri | |
+| 57 | A | dikomentari sebagai: "dia agak gila, tapi kami suka" | |
+| 57 | B | dikomentari: "kami menghormatinya karena perhatiannya yang tak pernah putus" | |
+| 58 | A | beri saya tujuan akhirnya, selebihnya biar saya yang mengembangkan | |
+| 58 | B | senang tugas yang rinci dan jelas sasaran serta aturan mainnya | |
+| 59 | A | mencoba berbagai hal jadi nomer satu, berhasil atau tidak itu urusan lain | |
+| 59 | B | fokus pada suatu hal dan jalankan sesempurna mungkin | |
+| 60 | A | bekerja dengan menjadi 'orang di belakang layar' | |
+| 60 | B | bekerja dengan mengorganisir, memotivasi dan memfasilitasi orang lain | |
 
