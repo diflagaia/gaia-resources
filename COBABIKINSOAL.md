@@ -36,7 +36,7 @@ Saya cenderung …
 | 3 | A | mengutamakan profesionalitas dan hati nurani | |
 | 3 | B | menerima bahwa kadang keberhasilan nomer satu, cara tidak penting | |
 
-Ada 60 kombinasi pernyataan, kerjakan dengan cepat dan teliti,  tanpa harus terlalu lama menganalisa arti dan makna dibaliknya.  
+Ada 60 kombinasi pernyataan, kerjakan dengan cepat dan teliti,  tanpa harus terlalu lama menganalisa arti dan makna di baliknya.  
 
 **Selamat mengerjakan..!**
 
@@ -122,26 +122,26 @@ Saya cenderung …
 
 **No** | | **Pernyataan** | **Pilihan** |
 :-----|:-----:|:-----|-----:|
-|  | A |  | |
-|  | B |  | |
-|  | A |  | |
-|  | B |  | |
-|  | A |  | |
-|  | B |  | |
-|  | A |  | |
-|  | B |  | |
-|  | A |  | |
-|  | B |  | |
-|  | A |  | |
-|  | B |  | |
-|  | A |  | |
-|  | B |  | |
-|  | A |  | |
-|  | B |  | |
-|  | A |  | |
-|  | B |  | |
-|  | A |  | |
-|  | B |  | |
+| 31 | A | senang membuat orang jadi percaya diri dengan gagasan dan kemampuan mereka | |
+| 31 | B | senang membuat orang merasa aman-terkendali di bawah pimpinan saya | |
+| 32 | A | melakukan hubungan yang akrab dan hangat dengan bawahan | |
+| 32 | B | mengambil jarak, sehingga bisa tegas & lugas dengan mereka | |
+| 33 | A | dianggap sebagai pemimpin yang dinamis dan suka pekerjaan yang menantang | |
+| 33 | B | dianggap sebagai pemimpin yang  kalem, bertanggung jawab, dan mengayomi | |
+| 34 | A | sering bereksperimen dengan ide dan teori baru | |
+| 34 | B | mengutamakan kepraktisan, logis, aplikatif | |
+| 35 | A | responsif dan tepat waktu | |
+| 35 | B | luwes terhadap waktu dan cara kerja | |
+| 36 | A | memakai analisa logika, non-personal dan menjaga jarak dalam bernegosiasi | |
+| 36 | B | mengamati reaksi dan emosi pihak lain, lalu melakukan pendekatan yang sesuai | |
+| 37 | A | memimpin dengan luwes, suportif, dan penuh pengertian | |
+| 37 | B | mengandalkan ketaatan pada aturan, kendali dan  wewenang | |
+| 38 | A | menyukai kondisi yang menantang & beresiko tinggi | |
+| 38 | B | memilih kondisi yang bisa dikalkulasi resikonya terlebih dahulu | |
+| 39 | A | memilih pekerjaan yang menantang  dan  beresiko tinggi | |
+| 39 | B | memilih terlibat dengan pekerjaan yang bernuansa 'hasil kerja tim' | |
+| 40 | A | memberi orang kesempatan untuk belajar dari kesalahan sendiri | |
+| 40 | B | membekali orang dengan sasaran, tujuan, dan batas kewenangan yang jelas | |
 
 Saya cenderung …
 
