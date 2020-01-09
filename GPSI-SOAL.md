@@ -155,4 +155,4 @@ GANTI HALAMAN
 
 **<p align="center"> SELESAI </p>**
 
-**<p align="center"> TERIMAKASIH ATAS PERHATIAN DAN KERJASAMANYA </p>**
+**<p align="center"> TERIMA KASIH ATAS PERHATIAN DAN KERJASAMANYA </p>**
