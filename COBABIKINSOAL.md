@@ -63,11 +63,6 @@ Saya cenderung …
 | 9 | B | memilih situasi kerja yang tidak variatif dan rutin | |
 | 10 | A | mengandalkan prinsip tertib dan taat azas | |
 | 10 | B | lebih senang fleksibel dan bereksperimen | |
-
-Saya cenderung …
-
-**No** | | **Pernyataan** | **Pilihan** |
-:-----|:-----:|:-----|-----:|
 | 11 | A | pantang menyerah dalam berdebat | |
 | 11 | B | menyudahi perdebatan,  ketika sadar tidak mungkin menang | |
 | 12 | A | membuat kesimpulan dan keputusan secara mandiri | |
@@ -88,11 +83,6 @@ Saya cenderung …
 | 19 | B | taat pada rencana, standar, prosedur dan target kerja | |
 | 20 | A | tegas menghadapi pertentangan dan perbedaan | |
 | 20 | B | toleran dan penuh pertimbangan menghadapi pertentangan dan perbedaan | |
-
-Saya cenderung …
-
-**No** | | **Pernyataan** | **Pilihan** |
-:-----|:-----:|:-----|-----:|
 | 21 | A | menganggap tantangan nomer satu, dan keberhasilan adalah nomer dua | |
 | 21 | B | memilih pekerjaan yang tidak terlalu beresiko, tapi lebih pasti keberhasilannya | |
 | 22 | A | mendahulukan logika, baru perasaan | |
@@ -113,11 +103,6 @@ Saya cenderung …
 | 29 | B | menerima bahwa kadang keberhasilan nomer satu, cara tidak penting | |
 | 30 | A | langsung terlibat dan menikmati atmosfir kerja yang hiruk pikuk dan kolaboratif | |
 | 30 | B | tidak buru-buru terlibat, tunggu sampai saya siap dengan segala resikonya | |
-
-Saya cenderung …
-
-**No** | | **Pernyataan** | **Pilihan** |
-:-----|:-----:|:-----|-----:|
 | 31 | A | senang membuat orang jadi percaya diri dengan gagasan dan kemampuan mereka | |
 | 31 | B | senang membuat orang merasa aman-terkendali di bawah pimpinan saya | |
 | 32 | A | melakukan hubungan yang akrab dan hangat dengan bawahan | |
@@ -138,11 +123,6 @@ Saya cenderung …
 | 39 | B | memilih terlibat dengan pekerjaan yang bernuansa 'hasil kerja tim' | |
 | 40 | A | memberi orang kesempatan untuk belajar dari kesalahan sendiri | |
 | 40 | B | membekali orang dengan sasaran, tujuan, dan batas kewenangan yang jelas | |
-
-Saya cenderung …
-
-**No** | | **Pernyataan** | **Pilihan** |
-:-----|:-----:|:-----|-----:|
 | 41 | A | sering iseng melakukan hal-hal yang tidak terduga | |
 | 41 | B | jarang melakukan hal yang tidak terduga, tanpa alasan yang rasional | |
 | 42 | A | percaya penuh kepada kemampuan orang yang saya beri tugas | |
@@ -163,11 +143,6 @@ Saya cenderung …
 | 49 | B | menunjukkan kekesalan, karena banyak hal yang tidak beres | |
 | 50 | A | menelusuri alasan mengapa orang tidak senang saya dijadikan pemimpin | |
 | 50 | B | berprinsip 'senang-tidak senang', saya adalah yang memimpin | |
-
-Saya cenderung …
-
-**No** | | **Pernyataan** | **Pilihan** |
-:-----|:-----:|:-----|-----:|
 | 51 | A | menganggap "yang ragu akan kalah" adalah filosofi manajemen yang baik | |
 | 51 | B | lebih suka filosofi manajemen "pikir dulu baik-baik sebelum melompat" | |
 | 52 | A | mendorong orang berani mengemukakan inisiatif,  ide, dan gagasannya sendiri | |
@@ -189,3 +164,6 @@ Saya cenderung …
 | 60 | A | bekerja dengan menjadi 'orang di belakang layar' | |
 | 60 | B | bekerja dengan mengorganisir, memotivasi dan memfasilitasi orang lain | |
 
+**Terima kasih**
+
+**Selesai**
