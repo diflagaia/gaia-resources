@@ -30,8 +30,8 @@ Jika Anda ingin mengubah jawaban, silakan hapus jawaban lama dan tandailah jawab
 GANTI HALAMAN
 ---
 
-**No** | **Pernyataan** | **STS** | **TS** | **R** | **S** | **SS** |
-:-----:|:-----|:-----:|:-----:|:-----:|:-----:|:----:|
+| **No** | **Pernyataan** | **STS** | **TS** | **R** | **S** | **SS** |
+|:-----:|:-----|:-----:|:-----:|:-----:|:-----:|:----:|
 | 1 | Khawatir dengan beragam dan banyak hal | | | | | |
 | 2 | Mudah berteman | | | | | |
 | 3 | Penuh imajinasi |  | | | | | |
@@ -147,7 +147,7 @@ GANTI HALAMAN
 | 113 | Tidak tertarik dengan diskusi teoritis |  | | | | | |
 | 114 | Menceritakan kebaikan pribadi yang telah dilakukan |  | | | | | |
 | 115 | Kesulitan untuk mulai mengerjakan tugas |  | | | | | |
-| 116 | Tetap tenang dibawah tekanan |  | | | | | |
+| 116 | Tetap tenang di bawah tekanan |  | | | | | |
 | 117 | Selalu melihat dari sisi positifnya |  | | | | | |
 | 118 | Percaya bahwa kita harus bereaksi keras terhadap kejahatan |  | | | | | |
 | 119 | Tidak terlalu memikirkan mereka yang kesusahan |  | | | | | |
@@ -155,4 +155,4 @@ GANTI HALAMAN
 
 **<p align="center"> SELESAI </p>**
 
-**<p align="center"> TERIMA KASIH ATAS PERHATIAN DAN KERJASAMANYA </p>**
+**<p align="center"> TERIMA KASIH ATAS PERHATIAN DAN KERJA SAMANYA </p>**
