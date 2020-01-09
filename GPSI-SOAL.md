@@ -153,7 +153,6 @@ GANTI HALAMAN
 | 119 | Tidak terlalu memikirkan mereka yang kesusahan |  | | | | | |
 | 120 | Bertindak tanpa pikir panjang lebih dahulu |  | | | | | |
 
+**<p align="center"> SELESAI </p>**
 
-**<p align="center"> Terima kasih </p>**
-
-**<p align="center"> Selesai</p>**
+**<p align="center"> TERIMAKASIH ATAS PERHATIAN DAN KERJASAMANYA </p>**
