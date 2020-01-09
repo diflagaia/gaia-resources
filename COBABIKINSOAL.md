@@ -1,15 +1,12 @@
 
 
-![image](capture.JPG)
 
 
-## G-PRO
-## GAIA Professional Leadership and Management Profilor
 ## LEADERSHIP PROFILOR
 
 **BACALAH DENGAN SEKSAMA DAN PASTIKAN SEMUA JAWABAN TERISI**
 
-Instruksi Umum
+**Instruksi Umum**
 
 Harap isi kuesioner ini dengan benar dan akurat.
 Dari setiap kombinasi 2 pernyataan yang ada, berilah nilai untuk masing masing pernyataan, yang menurut anda paling merefleksikan diri anda. Isilah dengan 3 kalau pernyataan tersebut sangat merefleksikan anda, 2 untuk yang cukup merefleksikan anda, 1 untuk yang tidak begitu merefleksikan diri anda, dan 0 untuk yang sama sekali tidak mencerminkan diri anda.
