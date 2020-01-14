@@ -289,14 +289,14 @@ B. bekerja dengan mengorganisir, memotivasi dan memfasilitasi orang lain
 ## ELEMENTS
 
 Kode | MOTI
-:-----|:----
+:----|:----
 Alias | 
 Definisi Alias |
 Deskripsi Strength | Ramah, interaktif, demokratis, reseptif dan responsif. Ringan tangan, dan suka berbagi informasi. Inisiatif tinggi dan mengajak orang lain untuk terlibat.
 Deskripsi Weakness | Terlalu permisif dan toleran, tidak bisa mengatakan 'tidak', dan cenderung banyak omong.
 
 Kode  | RESP
-:-----|:----
+:----|:----
 Alias | 
 Definisi Alias |
 Deskripsi Strength | Supel dan suka bergaul, suka ngobrol dan ekspresif. Senang berbagi ide serta memperhatikan dan mempedulikan gagasan/ide orang lain. Membangun hubungan dan kontak secara luas serta selalu ter-_update_ dengan berita tentang mereka.
@@ -324,7 +324,7 @@ Deskripsi Strength | Senang memutuskan berdasarkan beragam pilihan. Adaptif dan 
 Deskripsi Weakness | Ragu-ragu, terkesan tidak punya tujuan yang jelas dan/atau konsisten; terlalu berkompromi hampir dalam segala hal; terlalu akomodatif dan cenderung menghindari konfrontasi agar tidak terjadi konflik.
 
 Kode  | AFIL
-:-----|:----
+:----|:----
 Alias | 
 Definisi Alias |
 Deskripsi Strength | Anggota tim yang baik, menghormati konsensus, kolaboratif dan kooperatif; serta menyukai kegiatan berkelompok. Cocok dan baik terhadap hampir semua orang, dan gaya komunikasinya terbuka.
@@ -338,7 +338,7 @@ Deskripsi Strength | Berpengaruh,  kompetitif, percaya diri, memimpin, tidak rag
 Deskripsi Weakness | Dominan,  tidak memberi kesempatan orang lain, cenderung menekan dan menuntut. Agresif, serta cenderung kurang toleran, kurang sabar dan kurang perhatian pada orang lain.
 
 Kode  | ASER
-:-----|:----
+:----|:----
 Alias | 
 Definisi Alias |
 Deskripsi Strength | Sangat peduli waktu dan deadline; analisanya faktual, orientasi dan fokus pada tugas. Manajemen pengelolaan dirinya bagus.
@@ -352,7 +352,7 @@ Deskripsi Strength | Hati-hati dan penuh perhitungan. Mengandalkan pada hal-hal 
 Deskripsi Weakness | Terlalu berhati hati, kurang berani dan menghindari hal hal yang mengandung risiko. Terlalu berlama-lama dalam menganalisa tapi lambat mengambil keputusan/tindakan.
 
 Kode  | SIST
-:-----|:----
+:----|:----
 Alias | 
 Definisi Alias |
 Deskripsi Strength | Tertib, terorganisir dan disiplin; senang dengan detil, teliti dan taat aturan. Suka dengan pekerjaan yang jelas tujuan dan ukuran keberhasilannya.
@@ -366,7 +366,7 @@ Deskripsi Strength | Tangguh, gigih dan persisten. Fokus dan konsisten.
 Deskripsi Weakness | Bertele-tele dan panjang lebar, keras kepala, tidak fleksibel dan tanpa kompromi; cenderung tidak kreatif dan tidak inovatif.
 
 Kode  | INDE
-:-----|:----
+:----|:----
 Alias |
 Definisi Alias |
 Deskripsi Strength | Berpikir independen - membuat keputusan sendiri, mandiri, _'solo player'_, mampu melakukan beragam  hal untuk diri mereka sendiri.
@@ -379,7 +379,7 @@ Alias |
 Definisi Alias |
 
 Kode  | PENE
-:-----|:----
+:----|:----
 Member | INST, ASER, STAB, SIST, KONS, INDE
 Alias | 
 Definisi Alias |
