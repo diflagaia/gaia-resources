@@ -222,64 +222,68 @@ A. senang  dengan tugas yang memanfaatkan seluruh kemampuan terbaik saya
 B. memilih tugas yang penuh persaingan dan "panas" kompetisinya
 
 ### SOAL 46
-A. 
-B. 
+A. membiarkan orang menyelesaikan tugasnya dengan caranya sendiri   
+B. melakukan pengawasan melekat dan memastikan semuanya benar
 
 ### SOAL 47
-A. 
-B. 
+A. bersih, rapi dan formal, serta memperhatikan detil   
+B. bersih dan rapi, tapi informal dan santai
 
 ### SOAL 48
-A. 
-B. 
+A. menyimpan informasi dan gagasan berharga  untuk diri sendiri   
+B. berbagi dan berdiskusi, supaya orang lain juga bisa memanfaatkannya
 
 ### SOAL 49
-A. 
-B. 
+A. menganalisa diri sendiri, ketika banyak hal yang tidak beres   
+B. menunjukkan kekesalan, karena banyak hal yang tidak beres
 
 ### SOAL 50
-A. 
-B. 
+A. menelusuri alasan mengapa orang tidak senang saya dijadikan pemimpin   
+B. berprinsip 'senang-tidak senang', saya adalah yang memimpin
 
 ### SOAL 51
-A. 
-B. 
+A. berprinsip 'senang-tidak senang', saya adalah yang memimpin   
+B. lebih suka filosofi manajemen "pikir dulu baik-baik sebelum melompat"
 
 ### SOAL 52
-A. 
-B. 
+A. mendorong orang berani mengemukakan inisiatif,  ide, dan gagasannya sendiri   
+B. memastikan tujuan, sasaran, jalur kewenangan & prosedur berjalan dengan benar
 
 ### SOAL 53
-A. 
-B. 
+A. berprinsip bahwa apapun yang sudah dimulai harus dituntaskan   
+B. senang melakukan hal yang penting dan utama saja dari satu rangkaian pekerjaan
 
 ### SOAL 54
-A. 
-B. 
+A. tidak peduli dengan orang yang  "sok tahu" dan "sok berkuasa"   
+B. bersikap ketus terhadap orang  "sok tahu" dan "sok berkuasa"
 
 ### SOAL 55
-A. 
-B. 
+A. jadi tempat orang mengadu ketika bermasalah   
+B. jadi tempat orang mencari solusi permasalahan mereka
 
 ### SOAL 56
-A. 
-B. 
+A. dilihat sebagai orang yang terbuka dan suka berbagi   
+B. dilihat sebagai orang yang terampil dan percaya diri
 
 ### SOAL 57
-A. 
-B. 
+A. dikomentari sebagai: "dia agak gila, tapi kami suka"   
+B. dikomentari: "kami menghormatinya karena perhatiannya yang tak pernah putus"
 
 ### SOAL 58
-A. 
-B. 
+A. beri saya tujuan akhirnya, selebihnya biar saya yang mengembangkan   
+B. senang tugas yang rinci dan jelas sasaran serta aturan mainnya
 
 ### SOAL 59
-A. 
-B. 
+A. mencoba berbagai hal jadi nomer satu, berhasil atau tidak itu urusan lain   
+B. fokus pada suatu hal dan jalankan sesempurna mungkin
 
 ### SOAL 60
-A. 
-B. 
+A. bekerja dengan menjadi 'orang di belakang layar'   
+B. bekerja dengan mengorganisir, memotivasi dan memfasilitasi orang lain
+
+
+### TERIMA KASIH
+### SELESAI
 
 
 
