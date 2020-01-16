@@ -113,3 +113,64 @@ Saya cenderung …
 [SIST] mengandalkan prinsip tertib dan taat azas
 
 [SITU] lebih senang fleksibel dan bereksperimen
+
+### SOAL 11
+
+[KONS] pantang menyerah dalam berdebat
+
+[FLEK] menyudahi perdebatan, ketika sadar tidak mungkin menang
+
+### SOAL 12
+
+[INDE] membuat kesimpulan dan keputusan secara mandiri
+
+[AFIL] mengambil keputusan setelah berbagi ide dan gagasan dengan orang lain
+
+### SOAL 13
+
+[INST] mengandalkan kemampuan teknis dan kewenangan
+
+[MOTI] mengandalkan motivasi dan apresiasi
+
+### SOAL 14
+
+[ASER] mengutamakan kesetaraan tugas & kemampuan
+
+[RESP] mementingkan keselarasan tugas dengan keunikan karakter dan talenta
+
+### SOAL 15
+
+[PROG] memilih pendekatan yang non-konvensional dan fleksibel
+
+[STAB] memakai cara dan metode yang sudah terbukti kehandalannya
+
+### SOAL 16
+
+[SITU] mendorong munculnya inisiatif dan eksperimen dalam bekerja
+
+[SIST] mengutamakan rencana, jadwal dan prosedur yang jelas
+
+### SOAL 17
+
+[KONS] konsisten dengan prinsip, standar dan nilai profesional
+
+[FLEK] luwes, mengalir dan beradaptasi
+
+### SOAL 18
+
+[INDE] senang lingkungan yang tenang untuk mengolah ide dan gagasan
+
+[AFIL] menikmati situasi interaktif, saling mencetuskan ide, gagasan dan rencana
+
+### SOAL 19
+
+[MOTI] senang dengan pendapat, ide dan gagasan baru dalam bekerja
+
+[INST] taat pada rencana, standar, prosedur dan target kerja
+
+### SOAL 20
+
+[ASER] tegas menghadapi pertentangan dan perbedaan
+
+[RESP] toleran dan penuh pertimbangan menghadapi pertentangan dan perbedaan
+
