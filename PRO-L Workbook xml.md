@@ -174,3 +174,62 @@ Saya cenderung …
 
 [RESP] toleran dan penuh pertimbangan menghadapi pertentangan dan perbedaan
 
+### SOAL 21
+
+[PROG] menganggap tantangan nomer satu, dan keberhasilan adalah nomer dua
+
+[STAB] memilih pekerjaan yang tidak terlalu beresiko, tapi lebih pasti keberhasilannya
+
+### SOAL 22
+
+[SIST] mendahulukan logika, baru perasaan
+
+[SITU] mendahulukan perasaan, baru logika
+
+### SOAL 23
+
+[KONS] konsisten, teguh dan keras hati
+
+[FLEK] fleksibel, variatif, dan adaptif
+
+### SOAL 24
+
+[INDE] yakin dengan penilaian dan pertimbangan saya
+
+[AFIL] memerlukan umpan balik, dorongan, dan konsultasi dengan orang lain
+
+### SOAL 25
+
+[MOTI] menghargai ide, gagasan dan kontribusi bawahan
+
+[INST] menunjukan kemampuan/ketrampilan pribadi, untuk contoh bagi yang lain
+
+### SOAL 26
+
+[RESP] mendorong hubungan yang akrab, terbuka dan informal
+
+[ASER] mempertahankan hubungan non-personal dan menjaga jarak
+
+### SOAL 27
+
+[PROG] sering mengambil tindakan yang tidak populer dan tidak biasa
+
+[STAB] lebih sering bertindak hati-hati, penuh perhitungan dan 'aman'
+
+### SOAL 28
+
+[SIST] merencanakan & mengawasi secara sistematis dan menyeluruh
+
+[SITU] langsung terlibat sebuah pekerjaan dan merespon apa yang terjadi di lapangan
+
+### SOAL 29
+
+[KONS] mengutamakan profesionalitas dan hati nurani
+
+[FLEK] menerima bahwa kadang keberhasilan nomer satu, cara tidak penting
+
+### SOAL 30
+
+[AFIL] langsung terlibat dan menikmati atmosfir kerja yang hiruk pikuk dan kolaboratif
+
+[INDE] tidak buru-buru terlibat, tunggu sampai saya siap dengan segala resikonya
