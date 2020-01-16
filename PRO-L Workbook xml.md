@@ -1,0 +1,115 @@
+# WORKBOOK PRO-L
+
+- moduleName value="PRO-L default"
+- moduleTitle value=""
+- mediaPath value=""
+- evidenceType value="options"
+- testItems value="60"
+- itemsType value="simple"
+- evidence value="nomor, likert, kode/elemen, statement"
+- optionsType value="predefined"
+- optionsNums value="4"
+- optionsSelect value="1"
+- elements="ANAT, CONT, CREA, STRT, PLAN, ORGA, CONR, SOCW, COLL, NETW, COMM, PERS, SELC, ADAP, SELE, ACHR, MANR, MANA, MANE, MANO"
+
+# PredefinedItems
+
+- Options
+- Option name="likert"
+- Option role="0"Tidak merefleksikan
+- Option role="1"Tidak begitu merefleksikan
+- Option role="2"Cukup merefleksikan
+- Option role="3"Sangat merefleksikan
+
+# BookIntro
+
+**BACALAH DENGAN SEKSAMA DAN PASTIKAN SEMUA JAWABAN TERISI**
+
+**Instruksi Umum**
+
+Harap isi kuesioner ini dengan benar dan akurat.
+
+Dari setiap kombinasi 2 pernyataan yang ada, berilah nilai untuk masing masing pernyataan, yang menurut anda paling merefleksikan diri anda. Isilah dengan 3 kalau pernyataan tersebut sangat merefleksikan anda, 2 untuk yang cukup merefleksikan anda, 1 untuk yang tidak begitu merefleksikan diri anda, dan 0 untuk yang sama sekali tidak mencerminkan diri anda.
+
+Jumlah nilai untuk setiap kombinasi 2 pernyataan haruslah = 3; sehingga anda bisa mengisi dengan nilai 1 - 2, 2 - 1, 0 – 3, atau 3 – 0, untuk setiap kombinasi 2 pernyataan.
+
+Contoh:
+
+Saya cenderung …
+
+|**No** | | **Pernyataan** | **Nilai** |
+|:-----:|:-----:|:-----|:-----|
+| 1 | A | mencoba berbagai hal jadi nomer satu, berhasil atau tidak itu urusan lain | |
+|  | B | fokus pada suatu hal dan jalankan sesempurna mungkin | |
+| 2 | A | dianggap sebagai pemimpin yang dinamis dan suka pekerjaan yang menantang | |
+|  | B | dianggap sebagai pemimpin yang  kalem, bertanggung jawab, dan mengayomi | |
+| 3 | A | mengutamakan profesionalitas dan hati nurani | |
+|  | B | menerima bahwa kadang keberhasilan nomer satu, cara tidak penting | |
+
+Ada 60 kombinasi pernyataan, kerjakan dengan cepat dan teliti,  tanpa harus terlalu lama menganalisa arti dan makna di baliknya.  
+
+**Selamat mengerjakan..!**
+
+# BookBody
+
+Saya cenderung …
+
+### SOAL 1
+
+[INST] mengatur dan mengawasi secara langsung pekerjaan bawahan
+	
+[MOTI] mendorong dan menyemangati bawahan	
+
+### SOAL 2
+
+[ASER] mengelola, mengatur, mengawasi pekerjaan tanpa harus terlibat langsung
+	
+[RESP] lebih suka terlibat dan terjun langsung dengan pekerjaan	
+
+### SOAL 3
+
+[PROG] sering melakukan tindakan kontroversial dan terobosan baru	
+
+[STAB] lebih suka mengkonsolidasi dan mengamankan berbagai hal yang telah dicapai	
+
+### SOAL 4
+
+[SIST] bekerja mendahulukan fakta, analisa, dan logika
+	
+[SITU] bekerja mengutamakan imajinasi, inspirasi dan kreatifitas	
+
+### SOAL 5
+
+[KONS] menyelesaikan satu bagian sampai tuntas, baru melangkah ke bagian selanjutnya
+	
+[FLEK] lanjut ke langkah berikutnya, dan tetap menuntaskan sedikit sisa sebelumnya	
+
+### SOAL 6
+
+[INDE] senang mengerjakan tugas semandiri mungkin
+
+[AFIL] bekerja dan menyelesaikan tugas secara tim/kerja kelompok
+
+### SOAL 7
+
+[MOTI] membina kolaborasi yang produktif
+
+[INST] memobilisasi tim secara langsung
+
+### SOAL 8
+
+[ASER] lugas mengingatkan ketika semangat kerja bawahan menurun
+
+[RESP] menurunkan irama kerja ketika kinerja bawahan menurun
+
+### SOAL 9
+
+[PROG] senang dengan kondisi kerja yang penuh variasi dan gejolak
+
+[STAB] memilih situasi kerja yang tidak variatif dan rutin
+
+### SOAL 10
+
+[SIST] mengandalkan prinsip tertib dan taat azas
+
+[SITU] lebih senang fleksibel dan bereksperimen
