@@ -233,3 +233,64 @@ Saya cenderung …
 [AFIL] langsung terlibat dan menikmati atmosfir kerja yang hiruk pikuk dan kolaboratif
 
 [INDE] tidak buru-buru terlibat, tunggu sampai saya siap dengan segala resikonya
+
+### SOAL 31
+
+[MOTI] senang membuat orang jadi percaya diri dengan gagasan dan kemampuan mereka
+
+[INST] senang membuat orang merasa aman-terkendali di bawah pimpinan saya
+
+### SOAL 32
+
+[RESP] melakukan hubungan yang akrab dan hangat dengan bawahan
+
+[ASER] mengambil jarak, sehingga bisa tegas & lugas dengan mereka
+
+### SOAL 33
+
+[PROG] dianggap sebagai pemimpin yang dinamis dan suka pekerjaan yang menantang
+
+[STAB] dianggap sebagai pemimpin yang kalem, bertanggung jawab, dan mengayomi
+
+### SOAL 34
+
+[SITU] sering bereksperimen dengan ide dan teori baru
+
+[SIST] mengutamakan kepraktisan, logis, aplikatif
+
+
+### SOAL 35
+
+[KONS] responsif dan tepat waktu
+
+[FLEK] luwes terhadap waktu dan cara kerja
+
+### SOAL 36
+
+[INDE] memakai analisa logika, non-personal dan menjaga jarak dalam bernegosiasi
+
+[AFIL] mengamati reaksi dan emosi pihak lain, lalu melakukan pendekatan yang sesuai
+
+### SOAL 37
+
+[MOTI] memimpin dengan luwes, suportif, dan penuh pengertian
+
+[INST] mengandalkan ketaatan pada aturan, kendali dan wewenang
+
+### SOAL 38
+
+[ASER] menyukai kondisi yang menantang & beresiko tinggi
+
+[RESP] memilih kondisi yang bisa dikalkulasi resikonya terlebih dahulu
+
+### SOAL 39
+
+[PROG] memilih pekerjaan yang menantang dan beresiko tinggi
+
+[STAB] memilih terlibat dengan pekerjaan yang bernuansa 'hasil kerja tim'
+
+### SOAL 40
+
+[SITU] memberi orang kesempatan untuk belajar dari kesalahan sendiri
+
+[SIST] membekali orang dengan sasaran, tujuan, dan batas kewenangan yang jelas
