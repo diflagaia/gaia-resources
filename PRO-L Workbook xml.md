@@ -294,3 +294,64 @@ Saya cenderung …
 [SITU] A. memberi orang kesempatan untuk belajar dari kesalahan sendiri
 
 [SIST] B. membekali orang dengan sasaran, tujuan, dan batas kewenangan yang jelas
+
+### SOAL 41
+
+[FLEK] A. sering iseng melakukan hal-hal yang tidak terduga
+
+[KONS] B. jarang melakukan hal yang tidak terduga, tanpa alasan yang rasional
+
+### SOAL 42
+
+[AFIL] A. percaya penuh kepada kemampuan orang yang saya beri tugas
+
+[INDE] B. harus merinci semua tugas termasuk beragam kemungkinan yang bisa terjadi
+
+### SOAL 43
+
+[MOTI] A. tenang menghadapi situasi kegagalan, dan mengeksplorasi penyebabnya
+
+[INST] B. tegas menyatakan pada semuanya, konsekuensi & akibat sebuah kegagalan
+
+### SOAL 44
+
+[RESP] A. senang membuat bawahan berkembang, sebagai individu maupun tim kerja
+
+[ASER] B. senang kerja yang efisien dan pencapaian target yang impresif
+
+### SOAL 45
+
+[STAB] A. senang dengan tugas yang memanfaatkan seluruh kemampuan terbaik saya
+
+[PROG] B. memilih tugas yang penuh persaingan dan "panas" kompetisinya
+
+### SOAL 46
+
+[SITU] A. membiarkan orang menyelesaikan tugasnya dengan caranya sendiri
+
+[SIST] B. melakukan pengawasan melekat dan memastikan semuanya benar
+
+### SOAL 47
+
+[KONS] A. bersih, rapi dan formal, serta memperhatikan detil
+
+[FLEK] B. bersih dan rapi, tapi informal dan santai
+
+### SOAL 48
+
+[INDE] A. menyimpan informasi dan gagasan berharga untuk diri sendiri
+
+[AFIL] B. berbagi dan berdiskusi, supaya orang lain juga bisa memanfaatkannya
+
+### SOAL 49
+
+[MOTI] A. menganalisa diri sendiri, ketika banyak hal yang tidak beres
+
+[INST] B. menunjukkan kekesalan, karena banyak hal yang tidak beres
+
+### SOAL 50
+
+[RESP] A. menelusuri alasan mengapa orang tidak senang saya dijadikan pemimpin
+
+[ASER] B. berprinsip 'senang-tidak senang', saya adalah yang memimpin
+
