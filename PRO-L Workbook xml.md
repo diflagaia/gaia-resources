@@ -355,3 +355,64 @@ Saya cenderung …
 
 [ASER] B. berprinsip 'senang-tidak senang', saya adalah yang memimpin
 
+### SOAL 51
+
+[PROG] A. berprinsip 'senang-tidak senang', saya adalah yang memimpin
+
+[STAB] B. lebih suka filosofi manajemen "pikir dulu baik-baik sebelum melompat"
+
+### SOAL 52
+
+[SITU] A. mendorong orang berani mengemukakan inisiatif, ide, dan gagasannya sendiri
+
+[SIST] B. memastikan tujuan, sasaran, jalur kewenangan & prosedur berjalan dengan benar
+
+### SOAL 53
+
+[KONS] A. berprinsip bahwa apapun yang sudah dimulai harus dituntaskan
+
+[FLEK] B. senang melakukan hal yang penting dan utama saja dari satu rangkaian pekerjaan
+
+### SOAL 54
+
+[INDE] A. tidak peduli dengan orang yang "sok tahu" dan "sok berkuasa"
+
+[AFIL] B. bersikap ketus terhadap orang "sok tahu" dan "sok berkuasa"
+
+### SOAL 55
+
+[MOTI] A. jadi tempat orang mengadu ketika bermasalah
+
+[INST] B. jadi tempat orang mencari solusi permasalahan mereka
+
+### SOAL 56
+
+[RESP] A. dilihat sebagai orang yang terbuka dan suka berbagi
+
+[ASER] B. dilihat sebagai orang yang terampil dan percaya diri
+
+### SOAL 57
+
+[PROG] A. dikomentari sebagai: "dia agak gila, tapi kami suka"
+
+[STAB] B. dikomentari: "kami menghormatinya karena perhatiannya yang tak pernah putus"
+
+### SOAL 58
+
+[SITU] A. beri saya tujuan akhirnya, selebihnya biar saya yang mengembangkan
+
+[SIST] B. senang tugas yang rinci dan jelas sasaran serta aturan mainnya
+
+### SOAL 59
+
+[FLEK] A. mencoba berbagai hal jadi nomer satu, berhasil atau tidak itu urusan lain
+
+[KONS] B. fokus pada suatu hal dan jalankan sesempurna mungkin
+
+### SOAL 60
+
+[INDE] A. bekerja dengan menjadi 'orang di belakang layar'
+
+[AFIL] B. bekerja dengan mengorganisir, memotivasi dan memfasilitasi orang lain
+
+
