@@ -56,9 +56,9 @@ Saya cenderung …
 
 ### SOAL 1
 
-[INST] A. mengatur dan mengawasi secara langsung pekerjaan bawahan
+[INST] (i) mengatur dan mengawasi secara langsung pekerjaan bawahan
 	
-[MOTI] B. mendorong dan menyemangati bawahan	
+[MOTI] (ii). mendorong dan menyemangati bawahan	
 
 ### SOAL 2
 
