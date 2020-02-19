@@ -37,7 +37,7 @@ Level 3 |
 6 | Menjaga hubungan dengan atasan, praktisi, atau kalangan profesional yang dianggap lebih senior untuk memastikan bahwa inisiatif pembelajaran yang dilakukan benar-benar sudah tepat, sudah mendukung strategi organisasi, dan mampu mendorong perilaku yang diharapkan.
 7 | Mengenali tolok ukur pembelajaran dan pelatihan, serta mempelajari berbagai model peningkatan kinerja untuk diterapkan dalam rangka membangun modal intelektual organisasi.
 
-===
+
 
 Nama  | Customer Focus
 :-----|:----
