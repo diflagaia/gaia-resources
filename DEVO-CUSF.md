@@ -34,7 +34,7 @@ Level 3 |
 3 | Menganalisa kebutuhan organisasi (secara keseluruhan) untuk merumuskan dan mengimplementasikan rencana pengembangan, serta menguraikan target dan sasaran ukuran kinerja secara spesifik.
 4 | Melakukan mentoring dengan mengalokasikan waktu dan upaya yang memadai dalam hal konseling, pembinaan, dan memberikan pelatihan kepada bawahan secara berjenjang.
 5 | Memberikan solusi untuk pengembangan pengetahuan dan keterampilan yang inovatif.
-6 | Menjaga hubungan dengan atasan, praktisi, atau kalangan profesional yang dianggap lebih senior untuk memastikan bahwa inisiatif pembelajaran yang dilakukan benar-benar sudah tepat, sudah mendukung strategi organisasi, dan mampu mendorong perilaku yang diharapkan.
+6 | Menjaga hubungan dengan atasan, praktisi, atau kalangan profesional yang dianggap lebih mumpuni untuk memastikan bahwa inisiatif pembelajaran yang dilakukan benar-benar sudah tepat, sudah mendukung strategi organisasi, dan mampu mendorong perilaku yang diharapkan.
 7 | Mengenali tolok ukur pembelajaran dan pelatihan, serta mempelajari berbagai model peningkatan kinerja untuk diterapkan dalam rangka membangun modal intelektual organisasi.
 
 
