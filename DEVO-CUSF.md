@@ -12,7 +12,7 @@ Perilaku Kunci | Memberikan kesempatan pembelajaran dan pengembangan keterampila
 Perilaku Kunci | Memastikan alokasi anggaran agar bawahan mendapatkan pelatihan yang tepat untuk memenuhi standar kerja.
 Perilaku Kunci | Melakukan transfer pengetahuan dan mengembangkan keterampilan bawahan secara kontinyu. 
 Level 1 |
-1 | Menjelaskan secara rinci tugas dan hasil yang diharapkan, serta menetapkan standar yang realistis.
+1 | Menjelaskan secara rinci tugas bawahan dan hasil yang diharapkan, serta menetapkan standar yang realistis.
 2 | Mengamati, menilai, dan mengevaluasi pekerjaan bawahan.
 3 | Memberi saran dan memotivasi bawahan untuk mengembangkan diri.
 Level 2 |
