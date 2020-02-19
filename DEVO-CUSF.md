@@ -58,7 +58,7 @@ Level 1 |
 1 | Melakukan identifikasi dan klarifikasi terhadap kebutuhan pelanggan (per individu).
 2 | Menangani langsung upaya penyelesaian masalah pelanggan.
 3 | Menunjukkan kepedulian yang tulus dan merespon pertanyaan atau keluhan pelanggan sesegera mungkin.
-4 | Berinteraksi dengan baik dengan semua pelanggan dengan memperhatikan beragam kebutuhan mereka.
+4 | Berinteraksi dengan baik dengan semua pelanggan dan memperhatikan beragam kebutuhan mereka.
 5 | Memahami semua layanan yang diberikan organisasi dan menyesuaikannya dengan kebutuhan pelanggan secara akurat.
 6 | Selalu memberikan informasi dan update kepada pelanggan.
 7 | Melayani semua pelanggan secara adil dan setara.
@@ -73,8 +73,8 @@ Level 2 |
 Level 3 |  
 1 | Mampu memberikan contoh kepada bawahan untuk melakukan pendekatan pribadi dengan pelanggan.
 2 | Mengalokasikan waktu secara khusus untuk mengetahui kebutuhan mendasar dari pelanggan yang tidak diungkapkan secara eksplisit.
-3 | Melakukan berbagai upaya pendekatan kepada pelanggan (namun tetap mempertimbangkan hal-hal yang bersifat kompleks dan sensitif bagi pelanggan) dalam rangka memenuhi kebutuhan jangka panjang mereka. 
-4 | Menerapkan sistem untuk mendokumentasi semua umpan balik pelanggan dan setiap gagasan dan informasi untuk meresponnya, agar dapat dimanfaatkan di kemudian hari.
+3 | Melakukan berbagai upaya pendekatan kepada pelanggan dengan mempertimbangkan hal-hal yang bersifat kompleks dan sensitif bagi mereka, dalam rangka memenuhi kebutuhan jangka panjang pelanggan.
+4 | Menerapkan sistem untuk mendokumentasi semua umpan balik pelanggan beserta gagasan dan informasi untuk meresponnya, agar dapat dimanfaatkan di kemudian hari.
 5 | Menciptakan lingkungan yang membuat seluruh tim berupaya untuk selalu mengutamakan pelanggan.
 Level 4 |  
 1 | Memastikan bahwa organisasi benar-benar berupaya untuk menyelesaikan masalah yang paling penting bagi pelanggan.
