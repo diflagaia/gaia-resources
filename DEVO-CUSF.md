@@ -45,7 +45,7 @@ Kode  | CUSF
 Definisi | Komitmen pribadi untuk mengidentifikasi kebutuhan nyata dan mendasar pelanggan, mengantisipasi, merespons, dan memenuhi kebutuhan mereka dengan cara yang tepat, menunjukkan perilaku yang mengutamakan pelanggan, serta terus menerus berupaya memberikan layanan dengan kualitas terbaik secara konsisten kepada semua pelanggan. *Pelanggan meliputi konsumen eksternal (yaitu masyarakat, pengguna layanan atau organisasi lain), maupun internal (yaitu kolega) dalam arti next-process atau bagian lain*.
 Perilaku Kunci | Memperlakukan semua pelanggan dengan hormat.
 Perilaku Kunci | Merespon semua pertanyaan pelanggan dengan cepat, positif dan sopan.
-Perilaku Kunci | Mengajukan berbagai pertanyaan untuk mengidentifikasi kebutuhan pelanggan.
+Perilaku Kunci | Melakukan upaya investigasi untuk mengidentifikasi kebutuhan pelanggan.
 Perilaku Kunci | Mencoba melihat masalah dari sudut pandang pelanggan.
 Perilaku Kunci | Memiliki (dan menyampaikan) gagasan berupa kebijakan, prosedur dan layanan untuk memenuhi kebutuhan pelanggan.
 Perilaku Kunci | Secara aktif meminta umpan balik dari pelanggan dan bertindak secara konstruktif atas umpan balik tersebut, baik umpan balik yang bersifat positif maupun negatif.
