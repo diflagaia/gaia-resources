@@ -4,13 +4,14 @@ Nama  | Developing Others
 :-----|:----
 Kode  | DEVO
 Definisi | Secara konstruktif memantau dan mengevaluasi pekerjaan bawahan atau orang lain yang terkait dengan pekerjaannya, serta mengembangkan dan melakukan upaya pelatihan demi meningkatkan dan memajukan keterampilan, pengetahuan, dan tingkat kinerja mereka.
-Perilaku Kunci | Mengidentifikasi kesenjangan kompetensi bawahan dan mengembangkan rencana pengembangan pribadi untuk mereka.
-Perilaku Kunci | Menilai secara komprehensif kinerja bawahan.
-Perilaku Kunci | Memberikan instruksi kerja yang terperinci (dan bila perlu disertai contoh).
-Perilaku Kunci | Mengenali dan memberi penghargaan (pujian, dll.) terhadap prestasi dan peningkatan kinerja bawahan.
-Perilaku Kunci | Memberikan kesempatan pembelajaran dan pengembangan keterampilan untuk bawahan secara terencana.
-Perilaku Kunci | Memastikan alokasi anggaran agar bawahan mendapatkan pelatihan yang tepat untuk memenuhi standar kerja.
-Perilaku Kunci | Melakukan transfer pengetahuan dan mengembangkan keterampilan bawahan secara kontinyu. 
+Perilaku Kunci | 
+1 | Mengidentifikasi kesenjangan kompetensi bawahan dan mengembangkan rencana pengembangan pribadi untuk mereka.
+2 | Menilai secara komprehensif kinerja bawahan.
+3 | Memberikan instruksi kerja yang terperinci (dan bila perlu disertai contoh).
+4 | Mengenali dan memberi penghargaan (pujian, dll.) terhadap prestasi dan peningkatan kinerja bawahan.
+5 | Memberikan kesempatan pembelajaran dan pengembangan keterampilan untuk bawahan secara terencana.
+6 | Memastikan alokasi anggaran agar bawahan mendapatkan pelatihan yang tepat untuk memenuhi standar kerja.
+7 | Melakukan transfer pengetahuan dan mengembangkan keterampilan bawahan secara kontinyu. 
 Level 1 |
 1 | Menjelaskan secara rinci tugas bawahan dan hasil yang diharapkan, serta menetapkan standar yang realistis.
 2 | Mengamati, menilai, dan mengevaluasi pekerjaan bawahan.
@@ -45,15 +46,16 @@ Nama  | Customer Focus
 :-----|:----
 Kode  | CUSF
 Definisi | Komitmen pribadi untuk mengidentifikasi kebutuhan nyata dan mendasar pelanggan, mengantisipasi, merespons, dan memenuhi kebutuhan pelanggan dengan cara yang tepat, menunjukkan perilaku yang mengutamakan pelanggan, serta terus menerus berupaya memberikan layanan dengan kualitas terbaik secara konsisten kepada semua pelanggan. *Pelanggan meliputi konsumen eksternal (yaitu masyarakat, pengguna layanan atau organisasi lain), maupun internal (yaitu kolega) dalam arti next-process atau bagian lain*.
-Perilaku Kunci | Memperlakukan semua pelanggan dengan hormat.
-Perilaku Kunci | Merespon semua pertanyaan pelanggan dengan cepat, positif dan sopan.
-Perilaku Kunci | Melakukan upaya investigasi untuk mengidentifikasi kebutuhan pelanggan.
-Perilaku Kunci | Mencoba melihat masalah dari sudut pandang pelanggan.
-Perilaku Kunci | Memiliki (dan menyampaikan) gagasan berupa kebijakan, prosedur dan layanan untuk memenuhi kebutuhan pelanggan.
-Perilaku Kunci | Secara aktif meminta umpan balik dari pelanggan dan bertindak secara konstruktif atas umpan balik tersebut, baik umpan balik yang bersifat positif maupun negatif.
-Perilaku Kunci | Melakukan tindakan riil untuk memenuhi kebutuhan dan permintaan pelanggan.
-Perilaku Kunci | Melakukan berbagai upaya ekstra untuk pelanggan.
-Perilaku Kunci | Memelihara hubungan dengan pelanggan. 
+Perilaku Kunci | 
+1 | Memperlakukan semua pelanggan dengan hormat.
+2 | Merespon semua pertanyaan pelanggan dengan cepat, positif dan sopan.
+3 | Melakukan upaya investigasi untuk mengidentifikasi kebutuhan pelanggan.
+4 | Mencoba melihat masalah dari sudut pandang pelanggan.
+5 | Memiliki (dan menyampaikan) gagasan berupa kebijakan, prosedur dan layanan untuk memenuhi kebutuhan pelanggan.
+6 | Secara aktif meminta umpan balik dari pelanggan dan bertindak secara konstruktif atas umpan balik tersebut, baik umpan balik yang bersifat positif maupun negatif.
+7 | Melakukan tindakan riil untuk memenuhi kebutuhan dan permintaan pelanggan.
+8 | Melakukan berbagai upaya ekstra untuk pelanggan.
+9 | Memelihara hubungan dengan pelanggan. 
 Level 1 |
 1 | Melakukan identifikasi dan klarifikasi terhadap kebutuhan pelanggan (per individu).
 2 | Menangani langsung upaya penyelesaian masalah pelanggan.
