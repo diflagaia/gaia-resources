@@ -59,7 +59,7 @@ Level 1 |
 4 | Berinteraksi dengan baik dengan semua pelanggan dengan mempertimbangkan beragam kebutuhan pelanggan.
 5 | Memahami semua layanan yang diberikan organisasi dan menyesuaikannya dengan kebutuhan pelanggan secara akurat.
 6 | Selalu memberi informasi dan memberikan update kepada pelanggan.
-7 | Menghadapi semua dengan pelanggan secara adil dan setara.
+7 | Melayani semua pelanggan secara adil dan setara.
 Level 2 | 
 1 | Secara konsisten mengambil keputusan yang berfokus pada kebutuhan pelanggan.
 2 | Menganalisis layanan yang sudah diberikan dan merumuskan solusi bagi setiap masalah yang muncul. 
@@ -69,90 +69,15 @@ Level 2 |
 6 | Mendapatkan umpan balik pelanggan untuk menemukenali cara-cara yang efektif demi memberikan pengalaman yang baik bagi pelanggan.
 7 | Menunjukkan upaya yang lebih (dari yang seharusnya dilakukan dalam kapasitas dan posisinya saat ini) untuk membantu pelanggan secara positif.
 Level 3 |  
- | 
- | 
- |  
- | 
- | 
- |  
- | 
- | 
- |  
- | 
- | 
- |  
- | 
- | 
- |  
- | 
- | 
- |  
- | 
- | 
- |  
- | 
- | 
- |  
- | 
- | 
- |  
- | 
- | 
- |  
- | 
- | 
- |  
- | 
- | 
- |  
- | 
- | 
- |  
- | 
- | 
- |  
- | 
- | 
- |  
- | 
- | 
- |  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+1 | Mampu memberikan contoh kepada bawahan untuk melakukan pendekatan pribadi dengan pelanggan.
+2 | Mengalokasikan waktu secara khusus untuk mengetahui kebutuhan mendasar dari pelanggan yang tidak diungkapkan secara eksplisit.
+3 | Melakukan berbagai upaya pendekatan kepada pelanggan (namun tetap mempertimbangkan hal-hal yang bersifat kompleks dan sensitif bagi pelanggan) dalam rangka memenuhi kebutuhan jangka panjang mereka. 
+4 | Menerapkan sistem untuk mendokumentasi semua umpan balik pelanggan dan setiap gagasan dan informasi untuk meresponnya, agar dapat dimanfaatkan di kemudian hari.
+5 | Menciptakan lingkungan yang membuat seluruh tim berupaya untuk selalu mengutamakan pelanggan.
+Level 4 |  
+1 | Memastikan bahwa organisasi benar-benar berupaya untuk menyelesaikan masalah yang paling penting bagi pelanggan.
+2 | Mengidentifikasi praktik dan solusi yang tepat, dan mengintegrasikannya ke dalam layanan yang disediakan organisasi.
+3 | Menerjemahkan umpan balik yang bersifat operasional menjadi upaya perbaikan yang bersifat strategis. 
+4 | Membangun beragam jaringan kemitraan strategis untuk meningkatkan layanan pelanggan.
+
 
