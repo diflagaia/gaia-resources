@@ -29,13 +29,13 @@ Level 2 |
 7 | Secara aktif memperbarui keterampilan pribadi dan profesionalnya sendiri, kemudian menerapkannya ke bidang atau cakupan yang baru dan tetap terupdate dengan segala perkembangan yang terjadi dalam bidang pekerjaannya.
 8 | Selalu mengikuti dan mempelajari pengetahuan dan keterampilan baru yang didapatkan dari forum profesi atau lembaga pengetahuan yang kredibel.
 Level 3 |
- | | Berkontribusi dan berbagi pengetahuan dalam lingkungan yang kompleks dan menantang, misalnya lintas unit atau lintas departemen.
- | | Berkontribusi dan membantu menerapkan pengembangan kemampuan/pelatihan dan strategi pengembangan di lingkup yang lebih luas dari unit kerjanya.
- | | Menganalisa kebutuhan organisasi (secara keseluruhan) untuk merumuskan dan mengimplementasikan rencana pengembangan, serta menguraikan target dan sasaran ukuran kinerja secara spesifik.
- | | Melakukan mentoring dengan mengalokasikan waktu dan upaya yang memadai dalam hal konseling, pembinaan, dan memberikan pelatihan kepada bawahan secara berjenjang.
- | | Memberikan solusi untuk pengembangan pengetahuan dan keterampilan yang inovatif.
- | | Menjaga hubungan dengan atasan, praktisi, atau kalangan profesional yang dianggap lebih senior untuk memastikan bahwa inisiatif pembelajaran yang dilakukan benar-benar sudah tepat, sudah mendukung strategi organisasi, dan mampu mendorong perilaku yang diharapkan.
- | | Mengenali tolok ukur pembelajaran dan pelatihan, serta mempelajari berbagai model peningkatan kinerja untuk diterapkan dalam rangka membangun modal intelektual organisasi.
+1 | Berkontribusi dan berbagi pengetahuan dalam lingkungan yang kompleks dan menantang, misalnya lintas unit atau lintas departemen.
+2 | Berkontribusi dan membantu menerapkan pengembangan kemampuan/pelatihan dan strategi pengembangan di lingkup yang lebih luas dari unit kerjanya.
+3 | Menganalisa kebutuhan organisasi (secara keseluruhan) untuk merumuskan dan mengimplementasikan rencana pengembangan, serta menguraikan target dan sasaran ukuran kinerja secara spesifik.
+4 | Melakukan mentoring dengan mengalokasikan waktu dan upaya yang memadai dalam hal konseling, pembinaan, dan memberikan pelatihan kepada bawahan secara berjenjang.
+5 | Memberikan solusi untuk pengembangan pengetahuan dan keterampilan yang inovatif.
+6 | Menjaga hubungan dengan atasan, praktisi, atau kalangan profesional yang dianggap lebih senior untuk memastikan bahwa inisiatif pembelajaran yang dilakukan benar-benar sudah tepat, sudah mendukung strategi organisasi, dan mampu mendorong perilaku yang diharapkan.
+7 | Mengenali tolok ukur pembelajaran dan pelatihan, serta mempelajari berbagai model peningkatan kinerja untuk diterapkan dalam rangka membangun modal intelektual organisasi.
 
 ===
 
