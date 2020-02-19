@@ -47,27 +47,28 @@ Perilaku Kunci | Memperlakukan semua pelanggan dengan hormat.
 Perilaku Kunci | Merespon semua pertanyaan pelanggan dengan cepat, positif dan sopan.
 Perilaku Kunci | Mengajukan berbagai pertanyaan untuk mengidentifikasi kebutuhan pelanggan.
 Perilaku Kunci | Mencoba melihat masalah dari sudut pandang pelanggan.
-Perilaku Kunci | Memiliki (dan menyampaikan) gagasan untuk melakukan kebijakan, prosedur dan layanan untuk memenuhi kebutuhan pelanggan.
-Perilaku Kunci | Secara aktif meminta umpan balik dari pelanggan dan bertindak secara konstruktif atas umpan balik tersebut, baik positif maupun negatif.
+Perilaku Kunci | Memiliki (dan menyampaikan) gagasan berupa kebijakan, prosedur dan layanan untuk memenuhi kebutuhan pelanggan.
+Perilaku Kunci | Secara aktif meminta umpan balik dari pelanggan dan bertindak secara konstruktif atas umpan balik tersebut, baik umpan balik yang bersifat positif maupun negatif.
 Perilaku Kunci | Melakukan tindakan riil untuk memenuhi kebutuhan dan permintaan pelanggan.
 Perilaku Kunci | Melakukan berbagai upaya ekstra untuk pelanggan.
-Perilaku Kunci | Menjaga Hubungan dengan pelanggan. 
+Perilaku Kunci | Memelihara hubungan dengan pelanggan. 
 Level 1 |
 1 | Melakukan identifikasi dan klarifikasi terhadap kebutuhan pelanggan (per individu).
 2 | Menangani langsung upaya penyelesaian masalah pelanggan.
-3 | Merespon pertanyaan pelanggan sesegera mungkin dan mengarahkan ke pihak lain untuk meresponnya ketika memang benar-benar dibutuhkan atau memang sesuai dengan pertanyaan tersebut.
-4 | Berinteraksi dengan baik dengan semua pelanggan dengan mempertimbangkan beragam kebutuhan pelanggan.
+3 | Menunjukkan kepedulian yang tulus dan merespon pertanyaan atau keluhan pelanggan sesegera mungkin.
+4 | Berinteraksi dengan baik dengan semua pelanggan dengan memperhatikan beragam kebutuhan mereka.
 5 | Memahami semua layanan yang diberikan organisasi dan menyesuaikannya dengan kebutuhan pelanggan secara akurat.
-6 | Selalu memberi informasi dan memberikan update kepada pelanggan.
+6 | Selalu memberikan informasi dan update kepada pelanggan.
 7 | Melayani semua pelanggan secara adil dan setara.
 Level 2 | 
-1 | Secara konsisten mengambil keputusan yang berfokus pada kebutuhan pelanggan.
+1 | Secara kontinyu mencari dan mengimplementasikan berbagai cara untuk memenuhi kebutuhan pelanggan.
 2 | Menganalisis layanan yang sudah diberikan dan merumuskan solusi bagi setiap masalah yang muncul. 
-3 | Mencari dan mengimplementasikan berbagai cara untuk memuaskan kebutuhan pelanggan.
-4 | Percaya diri dalam menghadapi pelanggan dan berupaya mengembangkan keterampilan secara pribadi demi memberikan layanan yang berkualitas tinggi.
-5 | Secara kontinyu berusaha menemukan manfaat dari layanan yang diberikan oleh organisasi maupun dirinya secara pribadi bagi pelanggan. 
-6 | Mendapatkan umpan balik pelanggan untuk menemukenali cara-cara yang efektif demi memberikan pengalaman yang baik bagi pelanggan.
-7 | Menunjukkan upaya yang lebih (dari yang seharusnya dilakukan dalam kapasitas dan posisinya saat ini) untuk membantu pelanggan secara positif.
+3 | Konsisten dalam membuat keputusan-keputusan yang berfokus pada kebutuhan pelanggan.
+4 | Menunjukkan tanggung jawab ketika pelanggan mengeluh, bahkan jika penyebab masalahnya berada di pihak lain, kemudian baru mengarahkannya untuk mengajukan komplain ke pihak yang terkait dengan keluhan tersebut.
+5 | Percaya diri dalam menghadapi pelanggan dan berupaya mengembangkan keterampilan secara pribadi demi memberikan layanan yang berkualitas tinggi.
+6 | Secara kontinyu berusaha menemukan manfaat dari layanan yang diberikan oleh organisasi maupun dirinya secara pribadi bagi pelanggan. 
+7 | Memanfaatkan umpan balik pelanggan untuk menemukenali cara-cara yang efektif dalam rangka memberikan pengalaman yang baik/mengesankan bagi pelanggan.
+8 | Menunjukkan upaya yang lebih (dari yang seharusnya dilakukan dalam kapasitas dan posisinya saat ini) untuk membantu pelanggan.
 Level 3 |  
 1 | Mampu memberikan contoh kepada bawahan untuk melakukan pendekatan pribadi dengan pelanggan.
 2 | Mengalokasikan waktu secara khusus untuk mengetahui kebutuhan mendasar dari pelanggan yang tidak diungkapkan secara eksplisit.
