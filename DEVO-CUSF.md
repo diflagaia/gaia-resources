@@ -59,7 +59,7 @@ Perilaku Kunci |
 Level 1 |
 1 | Melakukan identifikasi dan klarifikasi terhadap kebutuhan pelanggan (per individu).
 2 | Menangani langsung upaya penyelesaian masalah pelanggan.
-3 | Menunjukkan kepedulian yang tulus dan merespon pertanyaan atau keluhan pelanggan sesegera mungkin.
+3 | Menunjukkan kepedulian dan merespon pertanyaan atau keluhan pelanggan sesegera mungkin.
 4 | Berinteraksi dengan baik dengan semua pelanggan dan memperhatikan beragam kebutuhan mereka.
 5 | Memahami semua layanan yang diberikan organisasi dan menyesuaikannya dengan kebutuhan pelanggan secara akurat.
 6 | Selalu memberikan informasi dan update kepada pelanggan.
