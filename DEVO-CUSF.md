@@ -42,7 +42,117 @@ Level 3 |
 Nama  | Customer Focus
 :-----|:----
 Kode  | CUSF
-Definisi | Dorongan untuk membantu dan **melayani orang lain** dalam rangka memenuhi kebutuhan mereka. Fokusnya adalah pada pemahaman akan kebutuhan dan berupaya untuk bertindak lebih dalam melayani pelanggan dengan orientasi jangka panjang. *Pelanggan meliputi konsumen eksternal, maupun internal dalam arti next-process atau bagian lain*.
-Perilaku Kunci | Merespon kebutuhan pelanggan. 
-Perilaku Kunci | Berbuat Lebih bagi pelanggan.
+Definisi | Komitmen untuk mencari dan mendapatkan pemahaman penuh tentang kebutuhan dan harapan pelanggan, dalam rangka menentukan kebutuhan pelanggan secara nyata, menunjukkan perilaku yang mengutamakan pelanggan, serta menunjukkan kemampuan untuk memberikan layanan berkualitas tinggi secara konsisten. *Pelanggan meliputi konsumen eksternal (yaitu masyarakat, pengguna layanan atau organisasi lain), maupun internal (yaitu kolega) dalam arti next-process atau bagian lain*.
+Perilaku Kunci | Memperlakukan semua pelanggan dengan hormat.
+Perilaku Kunci | Merespon semua pertanyaan pelanggan dengan cepat, positif dan sopan.
+Perilaku Kunci | Mengajukan berbagai pertanyaan untuk mengidentifikasi kebutuhan pelanggan.
+Perilaku Kunci | Mencoba melihat masalah dari sudut pandang pelanggan.
+Perilaku Kunci | Memiliki (dan menyampaikan) gagasan untuk melakukan kebijakan, prosedur dan layanan untuk memenuhi kebutuhan pelanggan.
+Perilaku Kunci | Secara aktif meminta umpan balik dari pelanggan dan bertindak secara konstruktif atas umpan balik tersebut, baik positif maupun negatif.
+Perilaku Kunci | Melakukan tindakan riil untuk memenuhi kebutuhan dan permintaan pelanggan.
+Perilaku Kunci | Melakukan berbagai upaya ekstra untuk pelanggan.
 Perilaku Kunci | Menjaga Hubungan dengan pelanggan. 
+Level 1 |
+1 | Melakukan identifikasi dan klarifikasi terhadap kebutuhan pelanggan (per individu).
+2 | Menangani langsung upaya penyelesaian masalah pelanggan.
+3 | Merespon pertanyaan pelanggan sesegera mungkin dan mengarahkan ke pihak lain untuk meresponnya ketika memang benar-benar dibutuhkan atau memang sesuai dengan pertanyaan tersebut.
+4 | Berinteraksi dengan baik dengan semua pelanggan dengan mempertimbangkan beragam kebutuhan pelanggan.
+5 | Memahami semua layanan yang diberikan organisasi dan menyesuaikannya dengan kebutuhan pelanggan secara akurat.
+6 | Selalu memberi informasi dan memberikan update kepada pelanggan.
+7 | Menghadapi semua dengan pelanggan secara adil dan setara.
+ | 
+ | 
+ |  
+ | 
+ | 
+ |  
+ | 
+ | 
+ |  
+ | 
+ | 
+ |  
+ | 
+ | 
+ |  
+ | 
+ | 
+ |  
+ | 
+ | 
+ |  
+ | 
+ | 
+ |  
+ | 
+ | 
+ |  
+ | 
+ | 
+ |  
+ | 
+ | 
+ |  
+ | 
+ | 
+ |  
+ | 
+ | 
+ |  
+ | 
+ | 
+ |  
+ | 
+ | 
+ |  
+ | 
+ | 
+ |  
+ | 
+ | 
+ |  
+ | 
+ | 
+ |  
+ | 
+ | 
+ |  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
