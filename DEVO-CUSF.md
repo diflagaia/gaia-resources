@@ -65,12 +65,11 @@ Level 1 |
 Level 2 | 
 1 | Secara kontinyu mencari dan mengimplementasikan berbagai cara untuk memenuhi kebutuhan pelanggan.
 2 | Menganalisis layanan yang sudah diberikan dan merumuskan solusi bagi setiap masalah yang muncul. 
-3 | Konsisten dalam membuat keputusan-keputusan yang berfokus pada kebutuhan pelanggan.
-4 | Menunjukkan tanggung jawab ketika pelanggan mengeluh, bahkan jika penyebab masalahnya berada di pihak lain, kemudian baru mengarahkannya untuk mengajukan komplain ke pihak yang terkait dengan keluhan tersebut.
-5 | Percaya diri dalam menghadapi pelanggan dan berupaya mengembangkan keterampilan secara pribadi demi memberikan layanan yang berkualitas tinggi.
-6 | Secara kontinyu berusaha menemukan manfaat dari layanan yang diberikan oleh organisasi maupun dirinya secara pribadi bagi pelanggan. 
-7 | Memanfaatkan umpan balik pelanggan untuk menemukenali cara-cara yang efektif dalam rangka memberikan pengalaman yang baik/mengesankan bagi pelanggan.
-8 | Menunjukkan upaya yang lebih (dari yang seharusnya dilakukan dalam kapasitas dan posisinya saat ini) untuk membantu pelanggan.
+3 | Menunjukkan tanggung jawab ketika pelanggan mengeluh, bahkan jika penyebab masalahnya berada di pihak lain, kemudian baru mengarahkannya untuk mengajukan komplain ke pihak yang terkait dengan keluhan tersebut.
+4 | Percaya diri dalam menghadapi pelanggan dan berupaya mengembangkan keterampilan secara pribadi demi memberikan layanan yang berkualitas tinggi.
+5 | Secara kontinyu berusaha menemukan manfaat dari layanan yang diberikan oleh organisasi maupun dirinya secara pribadi bagi pelanggan. 
+6 | Memanfaatkan umpan balik pelanggan untuk menemukenali cara-cara yang efektif dalam rangka memberikan pengalaman yang baik/mengesankan bagi pelanggan.
+7 | Menunjukkan upaya yang lebih (dari yang seharusnya dilakukan dalam kapasitas dan posisinya saat ini) untuk membantu pelanggan.
 Level 3 |  
 1 | Mampu memberikan contoh kepada bawahan untuk melakukan pendekatan pribadi dengan pelanggan.
 2 | Mengalokasikan waktu secara khusus untuk mengetahui kebutuhan mendasar dari pelanggan yang tidak diungkapkan secara eksplisit.
@@ -79,8 +78,9 @@ Level 3 |
 5 | Menciptakan lingkungan yang membuat seluruh tim berupaya untuk selalu mengutamakan pelanggan.
 Level 4 |  
 1 | Memastikan bahwa organisasi benar-benar berupaya untuk menyelesaikan masalah yang paling penting bagi pelanggan.
-2 | Mengidentifikasi praktik dan solusi yang tepat, dan mengintegrasikannya ke dalam strategi organisasi tentang pelayanan pelanggan.
-3 | Menerjemahkan umpan balik yang bersifat operasional menjadi upaya perbaikan yang bersifat strategis. 
-4 | Membangun, mengembangkan, dan memelihara jaringan dengan berbagai mitra strategis dalam rangka meningkatkan layanan pelanggan.
+2 | Konsisten dalam membuat keputusan-keputusan yang berfokus pada kebutuhan pelanggan.
+3 | Mengidentifikasi praktik dan solusi yang tepat, dan mengintegrasikannya ke dalam strategi organisasi tentang pelayanan pelanggan.
+4 | Menerjemahkan umpan balik yang bersifat operasional menjadi upaya perbaikan yang bersifat strategis. 
+5 | Membangun, mengembangkan, dan memelihara jaringan dengan berbagai mitra strategis dalam rangka meningkatkan layanan pelanggan.
 
 
