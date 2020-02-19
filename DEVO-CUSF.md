@@ -76,8 +76,8 @@ Level 3 |
 5 | Menciptakan lingkungan yang membuat seluruh tim berupaya untuk selalu mengutamakan pelanggan.
 Level 4 |  
 1 | Memastikan bahwa organisasi benar-benar berupaya untuk menyelesaikan masalah yang paling penting bagi pelanggan.
-2 | Mengidentifikasi praktik dan solusi yang tepat, dan mengintegrasikannya ke dalam layanan yang disediakan organisasi.
+2 | Mengidentifikasi praktik dan solusi yang tepat, dan mengintegrasikannya ke dalam strategi organisasi tentang pelayanan pelanggan.
 3 | Menerjemahkan umpan balik yang bersifat operasional menjadi upaya perbaikan yang bersifat strategis. 
-4 | Membangun beragam jaringan kemitraan strategis untuk meningkatkan layanan pelanggan.
+4 | Membangun, mengembangkan, dan memelihara jaringan dengan berbagai mitra strategis dalam rangka meningkatkan layanan pelanggan.
 
 
