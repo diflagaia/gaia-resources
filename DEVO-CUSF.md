@@ -52,7 +52,7 @@ Perilaku Kunci |
 3 | Melakukan upaya investigasi untuk mengidentifikasi kebutuhan pelanggan.
 4 | Mencoba melihat masalah dari sudut pandang pelanggan.
 5 | Memiliki (dan menyampaikan) gagasan berupa kebijakan, prosedur dan layanan untuk memenuhi kebutuhan pelanggan.
-6 | Secara aktif meminta umpan balik dari pelanggan dan bertindak secara konstruktif atas umpan balik tersebut, baik umpan balik yang bersifat positif maupun negatif.
+6 | Secara aktif meminta umpan balik dari pelanggan dan bertindak secara konstruktif terhadap umpan balik yang bersifat positif maupun negatif.
 7 | Melakukan tindakan riil untuk memenuhi kebutuhan dan permintaan pelanggan.
 8 | Melakukan berbagai upaya ekstra untuk pelanggan.
 9 | Memelihara hubungan dengan pelanggan. 
