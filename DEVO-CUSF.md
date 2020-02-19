@@ -42,7 +42,7 @@ Level 3 |
 Nama  | Customer Focus
 :-----|:----
 Kode  | CUSF
-Definisi | Komitmen untuk mencari dan mendapatkan pemahaman penuh tentang kebutuhan dan harapan pelanggan, dalam rangka menentukan kebutuhan pelanggan secara nyata, menunjukkan perilaku yang mengutamakan pelanggan, serta menunjukkan kemampuan untuk memberikan layanan berkualitas tinggi secara konsisten. *Pelanggan meliputi konsumen eksternal (yaitu masyarakat, pengguna layanan atau organisasi lain), maupun internal (yaitu kolega) dalam arti next-process atau bagian lain*.
+Definisi | Komitmen untuk mencari dan mendapatkan pemahaman penuh tentang kebutuhan dan harapan pelanggan, dalam rangka menentukan kebutuhan pelanggan secara nyata, menunjukkan perilaku yang mengutamakan pelanggan, serta menunjukkan kemampuan untuk memberikan layanan berkualitas tinggi secara konsisten.    *Pelanggan meliputi konsumen eksternal (yaitu masyarakat, pengguna layanan atau organisasi lain), maupun internal (yaitu kolega) dalam arti next-process atau bagian lain*.
 Perilaku Kunci | Memperlakukan semua pelanggan dengan hormat.
 Perilaku Kunci | Merespon semua pertanyaan pelanggan dengan cepat, positif dan sopan.
 Perilaku Kunci | Mengajukan berbagai pertanyaan untuk mengidentifikasi kebutuhan pelanggan.
