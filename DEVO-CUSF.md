@@ -42,8 +42,7 @@ Level 3 |
 Nama  | Customer Focus
 :-----|:----
 Kode  | CUSF
-Definisi | Komitmen untuk mencari dan mendapatkan pemahaman penuh tentang kebutuhan dan harapan pelanggan, dalam rangka menentukan kebutuhan pelanggan secara nyata, menunjukkan perilaku yang mengutamakan pelanggan, serta menunjukkan kemampuan untuk memberikan layanan berkualitas tinggi secara konsisten. 
-*Pelanggan meliputi konsumen eksternal (yaitu masyarakat, pengguna layanan atau organisasi lain), maupun internal (yaitu kolega) dalam arti next-process atau bagian lain*.
+Definisi | Komitmen untuk mencari dan mendapatkan pemahaman penuh tentang kebutuhan dan harapan pelanggan, dalam rangka menentukan kebutuhan pelanggan secara nyata, menunjukkan perilaku yang mengutamakan pelanggan, serta menunjukkan kemampuan untuk memberikan layanan berkualitas tinggi secara konsisten. *Pelanggan meliputi konsumen eksternal (yaitu masyarakat, pengguna layanan atau organisasi lain), maupun internal (yaitu kolega) dalam arti next-process atau bagian lain*.
 Perilaku Kunci | Memperlakukan semua pelanggan dengan hormat.
 Perilaku Kunci | Merespon semua pertanyaan pelanggan dengan cepat, positif dan sopan.
 Perilaku Kunci | Mengajukan berbagai pertanyaan untuk mengidentifikasi kebutuhan pelanggan.
@@ -61,15 +60,15 @@ Level 1 |
 5 | Memahami semua layanan yang diberikan organisasi dan menyesuaikannya dengan kebutuhan pelanggan secara akurat.
 6 | Selalu memberi informasi dan memberikan update kepada pelanggan.
 7 | Menghadapi semua dengan pelanggan secara adil dan setara.
- | 
- | 
- |  
- | 
- | 
- |  
- | 
- | 
- |  
+Level 2 | 
+1 | Secara konsisten mengambil keputusan yang berfokus pada kebutuhan pelanggan.
+2 | Menganalisis layanan yang sudah diberikan dan merumuskan solusi bagi setiap masalah yang muncul. 
+3 | Mencari dan mengimplementasikan berbagai cara untuk memuaskan kebutuhan pelanggan.
+4 | Percaya diri dalam menghadapi pelanggan dan berupaya mengembangkan keterampilan secara pribadi demi memberikan layanan yang berkualitas tinggi.
+5 | Secara kontinyu berusaha menemukan manfaat dari layanan yang diberikan oleh organisasi maupun dirinya secara pribadi bagi pelanggan. 
+6 | Mendapatkan umpan balik pelanggan untuk menemukenali cara-cara yang efektif demi memberikan pengalaman yang baik bagi pelanggan.
+7 | Menunjukkan upaya yang lebih (dari yang seharusnya dilakukan dalam kapasitas dan posisinya saat ini) untuk membantu pelanggan secara positif.
+Level 3 |  
  | 
  | 
  |  
